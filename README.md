@@ -3,10 +3,16 @@
 Download Executive Summary
 
 ## Project Overview
-This project analyzes participation and economic impact metrics for 1,000 hypothetical community programs in Hundred Elms, a fictional California town. Programs include library workshops, theatre events, youth activities, senior services, and Civic Light Opera performances. Using Python for data generation, Excel for data cleaning, Tableau Public (version 2024.3) for visualization, and R for statistical analysis, I created an interactive dashboard and ROI analysis to optimize resource allocation and support grant proposals. The analysis demonstrates skills in data management, dashboard creation, and community-focused insights, aligning with the Cultural and Community Services Analyst role.
+This project analyzes participation and economic impact metrics for 1,000 hypothetical community programs in Hundred Elms, a fictional California town. Programs include library workshops, theatre events, youth activities, senior services, and Civic Light Opera performances. 
+
+Using Python for data generation, Excel for data cleaning, Tableau Public (version 2024.3) for visualization, and R for statistical analysis, I created an interactive dashboard and ROI analysis to optimize resource allocation and support grant proposals. 
+
+The analysis demonstrates skills in data management, dashboard creation, and community-focused insights, aligning with the Cultural and Community Services Analyst role.
 
 ## Data Sourcing
-A synthetic dataset of 1,000 program records was generated in Python, simulating 12 months (Fiscal Year July 2024–June 2025) of community programs in Hundred Elms. Fields include:
+A synthetic dataset of 1,000 program records was generated in Python, simulating 12 months (Fiscal Year July 2024–June 2025) of community programs in Hundred Elms. 
+
+Fields include:
 
 Program_ID
 Program_Type (Library Workshop, Theatre Event, Youth Activity, Senior Service, Civic Light Opera)
@@ -32,6 +38,7 @@ Exported as community_programs_cleaned.csv.
 
 ```excel
 // Example Pivot Table Setup
+
 Rows: Program_Type
 Columns: Participant_Age_Group
 Values: Average Attendance, Average Satisfaction, Sum Economic_Impact
@@ -85,10 +92,15 @@ Bar chart comparing average ROI for grant-funded vs. non-grant-funded programs, 
 I built a dashboard (1280 x 1024 pixels) in Tableau Public, featuring:
 
 Bar Chart: Attendance by program type (400 x 300 pixels).
+
 Line Chart: Satisfaction ratings over time (400 x 300 pixels).
+
 Pie Chart: Program distribution by age group (300 x 300 pixels).
+
 Map: Program locations in Hundred Elms (400 x 300 pixels, using Tableau’s built-in maps).
+
 Bar Chart: Economic impact by program type (400 x 300 pixels).
+
 Filters: Program type, age group, grant-funded status.
 
 The dashboard is published at Tableau Public Dashboard.
