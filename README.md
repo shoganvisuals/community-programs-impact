@@ -15,14 +15,23 @@ A synthetic dataset of 1,000 program records was generated in Python, simulating
 Fields include:
 
 Program_ID
+
 Program_Type (Library Workshop, Theatre Event, Youth Activity, Senior Service, Civic Light Opera)
+
 Date (MM/DD/YYYY)
+
 Attendance
+
 Participant_Age_Group (Youth, Adult, Senior)
+
 Satisfaction_Rating (1–5)
+
 Program_Cost ($)
+
 Location (e.g., Elmwood Library, Starlight Theatre)
+
 Grant_Funded (Yes/No)
+
 Economic_Impact ($)
 
 ## Data Cleaning in Excel
