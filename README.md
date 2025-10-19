@@ -96,8 +96,10 @@ ggplot(roi_by_type, aes(x = Program_Type, y = Avg_ROI, fill = Program_Type)) +
 *Bar chart showing average ROI for each program type, with Senior Service (128.9%) fully labeled, highlighting high-impact programs like Civic Light Opera.*
 
 
+
 <img src="images/roi_by_type_boxplot.png" alt="ROI Distribution by Program Type" width="400">
 *Boxplot showing ROI distribution by program type, identifying variability and outliers.*
+
 
 
 <img src="images/roi_by_grant_bar.png" alt="Average ROI Grant-Funded vs. Non-Grant-Funded Programs" width="400">
