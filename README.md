@@ -122,6 +122,8 @@ Filters: Program type, age group, grant-funded status.
 
 The dashboard is published at Tableau Public Dashboard.
 
+
+![Dashboard](dashboard1.png)
 Interactive dashboard visualizing participation and economic impact metrics for Hundred Elms community programs, with charts and filters for program type and age group.
 
 ## Key Insights
