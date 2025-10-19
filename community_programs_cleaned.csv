@@ -1,0 +1,1006 @@
+Program_ID,Program_Type,Date,Attendance,Participant_Age_Group,Satisfaction_Rating,Program_Cost,Location,Grant_Funded,Economic_Impact
+P0427,Theatre Event,7/2/2024,192,Adult,3.9,2950,Starlight Theatre,Yes,4573
+P0922,Theatre Event,7/2/2024,193,Adult,3.8,2146,Starlight Theatre,No,7450
+P0902,Library Workshop,7/2/2024,64,Adult,4.5,1836,Elmwood Library,No,2917
+P0484,Youth Activity,7/3/2024,42,Youth,4.1,877,Willow Park Community Center,Yes,1692
+P0169,Library Workshop,7/3/2024,62,Youth,4.7,1246,Elmwood Library,No,2082
+P0516,Library Workshop,7/3/2024,81,Youth,4.3,1396,Hazel Branch Library,No,3353
+P0887,Youth Activity,7/4/2024,88,Youth,5,553,Oakleaf Community Center,No,1923
+P0284,Library Workshop,7/4/2024,122,Adult,3.7,1242,Elmwood Library,Yes,3125
+P0800,Civic Light Opera,7/5/2024,115,Adult,4,3717,Maplewood Performing Arts Center,Yes,8789
+P0265,Senior Service,7/5/2024,36,Senior,5,655,Silver Elm Senior Center,No,1039
+P0753,Youth Activity,7/5/2024,68,Youth,4.1,629,Willow Park Community Center,Yes,1243
+P0744,Theatre Event,7/5/2024,177,Adult,4.5,2942,Starlight Theatre,Yes,7097
+P0514,Senior Service,7/7/2024,16,Senior,4.8,426,Silver Elm Senior Center,No,1596
+P0747,Theatre Event,7/7/2024,96,Adult,2.9,3465,Starlight Theatre,No,7180
+P0074,Senior Service,7/7/2024,23,Senior,5,647,Silver Elm Senior Center,No,1270
+P0050,Library Workshop,7/8/2024,86,Youth,5,1671,Hazel Branch Library,Yes,2494
+P0814,Civic Light Opera,7/8/2024,131,Senior,3.7,3836,Maplewood Performing Arts Center,Yes,5809
+P0203,Library Workshop,7/9/2024,53,Youth,4,1383,Elmwood Library,No,3422
+P0202,Library Workshop,7/9/2024,69,Youth,5,1570,Hazel Branch Library,Yes,2145
+P0048,Theatre Event,7/9/2024,121,Adult,5,2086,Maplewood Performing Arts Center,No,6518
+P0577,Library Workshop,7/9/2024,135,Youth,4.2,1529,Hazel Branch Library,No,3968
+P0971,Youth Activity,7/9/2024,93,Youth,4.8,885,Oakleaf Community Center,No,1256
+P0697,Library Workshop,7/10/2024,100,Youth,3.8,1652,Elmwood Library,No,3417
+P0970,Theatre Event,7/10/2024,184,Adult,4,3506,Starlight Theatre,No,4520
+P0503,Theatre Event,7/10/2024,104,Adult,4.5,2529,Starlight Theatre,No,6276
+P0160,Youth Activity,7/11/2024,51,Youth,4.5,820,Willow Park Community Center,No,1041
+P0436,Youth Activity,7/11/2024,96,Youth,4.4,686,Willow Park Community Center,No,1939
+P0248,Civic Light Opera,7/12/2024,132,Senior,4.6,3686,Maplewood Performing Arts Center,No,6907
+P0301,Library Workshop,7/12/2024,100,Youth,5,1245,Hazel Branch Library,No,2421
+P0340,Library Workshop,7/12/2024,143,Youth,4.5,1708,Elmwood Library,No,3141
+P0455,Library Workshop,7/12/2024,74,Adult,3.9,1428,Elmwood Library,No,2365
+P0234,Theatre Event,7/12/2024,91,Adult,4.3,2140,Maplewood Performing Arts Center,No,4016
+P0904,Youth Activity,7/13/2024,99,Youth,4.3,880,Oakleaf Community Center,No,1818
+P0020,Library Workshop,7/13/2024,70,Youth,3.7,1789,Hazel Branch Library,No,2413
+P0289,Library Workshop,7/13/2024,100,Youth,3.4,1665,Elmwood Library,No,3546
+P0403,Theatre Event,7/14/2024,126,Adult,3.8,3279,Starlight Theatre,No,4752
+P0781,Youth Activity,7/14/2024,58,Youth,4.3,526,Oakleaf Community Center,Yes,1190
+P0651,Library Workshop,7/14/2024,105,Youth,3.9,1438,Elmwood Library,Yes,3849
+P0031,Youth Activity,7/14/2024,52,Youth,4.2,857,Willow Park Community Center,Yes,1887
+P0014,Library Workshop,7/15/2024,73,Adult,3.5,1021,Elmwood Library,Yes,3462
+P0274,Civic Light Opera,7/15/2024,111,Senior,4.1,3750,Maplewood Performing Arts Center,No,7338
+P0350,Youth Activity,7/15/2024,45,Youth,5,650,Oakleaf Community Center,Yes,1342
+P0417,Library Workshop,7/15/2024,108,Adult,3.9,1227,Hazel Branch Library,No,2317
+P0549,Theatre Event,7/16/2024,163,Adult,3.7,3030,Starlight Theatre,No,5140
+P0827,Theatre Event,7/16/2024,88,Adult,4.4,3543,Maplewood Performing Arts Center,No,6738
+P0423,Library Workshop,7/16/2024,67,Adult,3.8,1192,Hazel Branch Library,No,3840
+P0795,Library Workshop,7/16/2024,101,Adult,3.6,1112,Hazel Branch Library,No,2404
+P0867,Library Workshop,7/16/2024,93,Adult,4.7,1056,Hazel Branch Library,No,2447
+P0073,Library Workshop,7/16/2024,109,Adult,4.8,1858,Elmwood Library,Yes,2897
+P0195,Theatre Event,7/17/2024,160,Adult,3.5,3808,Starlight Theatre,Yes,6649
+P0466,Theatre Event,7/18/2024,98,Adult,2.1,2272,Starlight Theatre,Yes,6635
+P0303,Theatre Event,7/19/2024,101,Adult,3.6,2329,Starlight Theatre,No,4390
+P0414,Youth Activity,7/21/2024,94,Youth,4,656,Oakleaf Community Center,Yes,1877
+P0999,Civic Light Opera,7/21/2024,103,Adult,4,4796,Maplewood Performing Arts Center,Yes,6603
+P0622,Library Workshop,7/22/2024,113,Adult,4,1776,Elmwood Library,No,3211
+P0521,Youth Activity,7/22/2024,68,Youth,3.8,996,Willow Park Community Center,No,1935
+P0717,Senior Service,7/22/2024,34,Senior,4.5,797,Silver Elm Senior Center,No,1136
+P0320,Library Workshop,7/22/2024,131,Youth,4.2,1097,Hazel Branch Library,No,2021
+P0941,Library Workshop,7/22/2024,133,Adult,5,1515,Hazel Branch Library,Yes,2076
+P0101,Library Workshop,7/22/2024,104,Adult,4.7,1207,Elmwood Library,No,3148
+P0715,Theatre Event,7/22/2024,90,Adult,4.2,2870,Maplewood Performing Arts Center,Yes,7129
+P0712,Youth Activity,7/23/2024,61,Youth,4.6,714,Willow Park Community Center,No,1392
+P0726,Senior Service,7/23/2024,27,Senior,4.5,487,Silver Elm Senior Center,No,1106
+P0039,Youth Activity,7/24/2024,43,Youth,4.1,502,Oakleaf Community Center,Yes,1753
+P0930,Library Workshop,7/24/2024,115,Youth,4.8,1949,Hazel Branch Library,No,3179
+P0259,Youth Activity,7/24/2024,79,Youth,4.9,675,Oakleaf Community Center,No,1059
+P0188,Youth Activity,7/25/2024,79,Youth,4.3,687,Willow Park Community Center,No,1778
+P0607,Library Workshop,7/25/2024,101,Youth,3.9,1785,Hazel Branch Library,Yes,2372
+P0191,Library Workshop,7/25/2024,122,Youth,3.9,1673,Elmwood Library,Yes,3587
+P0789,Theatre Event,7/25/2024,119,Adult,3.3,2136,Starlight Theatre,No,7490
+P0696,Youth Activity,7/25/2024,78,Youth,4.3,639,Willow Park Community Center,No,1277
+P0799,Youth Activity,7/26/2024,50,Youth,4.1,676,Willow Park Community Center,No,1445
+P0998,Library Workshop,7/26/2024,92,Adult,4.1,1786,Hazel Branch Library,No,2121
+P0605,Library Workshop,7/26/2024,72,Youth,4.5,1213,Hazel Branch Library,Yes,3358
+P0798,Youth Activity,7/27/2024,49,Youth,4.7,956,Willow Park Community Center,No,1194
+P0392,Theatre Event,7/27/2024,80,Adult,3.5,2668,Maplewood Performing Arts Center,Yes,5335
+P0494,Library Workshop,7/27/2024,149,Youth,3.5,1211,Elmwood Library,No,2803
+P0266,Youth Activity,7/27/2024,64,Youth,4.5,595,Willow Park Community Center,No,1163
+P0339,Theatre Event,7/27/2024,147,Adult,3.9,3999,Maplewood Performing Arts Center,Yes,7558
+P0136,Theatre Event,7/28/2024,155,Adult,3.1,2935,Maplewood Performing Arts Center,No,6153
+P0940,Youth Activity,7/29/2024,87,Youth,5,739,Oakleaf Community Center,Yes,1435
+P0598,Library Workshop,7/29/2024,104,Adult,3.7,1443,Elmwood Library,No,2727
+P0290,Youth Activity,7/29/2024,77,Youth,4.5,597,Oakleaf Community Center,Yes,1447
+P0035,Civic Light Opera,7/29/2024,81,Adult,4.4,4179,Maplewood Performing Arts Center,No,7467
+P0319,Library Workshop,7/30/2024,87,Youth,3.9,1377,Elmwood Library,No,2890
+P0815,Senior Service,7/30/2024,26,Senior,4.7,539,Silver Elm Senior Center,No,735
+P0677,Library Workshop,7/30/2024,105,Youth,4.9,1070,Elmwood Library,No,2885
+P0311,Theatre Event,7/30/2024,83,Adult,4.1,2941,Maplewood Performing Arts Center,No,7110
+P0133,Library Workshop,7/30/2024,89,Youth,4.3,1064,Elmwood Library,No,2990
+P0217,Theatre Event,7/30/2024,153,Adult,2.7,3914,Maplewood Performing Arts Center,No,7177
+P0986,Theatre Event,7/30/2024,130,Adult,3.6,2441,Starlight Theatre,No,6720
+P0796,Senior Service,7/31/2024,35,Senior,4.3,496,Silver Elm Senior Center,No,1377
+P0599,Library Workshop,8/1/2024,118,Adult,4.7,1119,Elmwood Library,Yes,3080
+P0287,Theatre Event,8/1/2024,151,Adult,3.8,2298,Starlight Theatre,No,4136
+P0655,Theatre Event,8/1/2024,129,Adult,3.6,2065,Maplewood Performing Arts Center,No,6431
+P0127,Senior Service,8/1/2024,34,Senior,4.7,355,Silver Elm Senior Center,No,1518
+P0082,Youth Activity,8/2/2024,79,Youth,4.1,736,Oakleaf Community Center,Yes,1605
+P0645,Library Workshop,8/2/2024,73,Youth,3.6,1911,Elmwood Library,Yes,3802
+P0951,Youth Activity,8/2/2024,46,Youth,5,748,Willow Park Community Center,No,1586
+P0117,Senior Service,8/3/2024,36,Senior,4.6,773,Silver Elm Senior Center,No,1525
+P0926,Library Workshop,8/3/2024,120,Youth,3.5,1789,Hazel Branch Library,No,2158
+P0568,Theatre Event,8/4/2024,124,Adult,2.7,3411,Maplewood Performing Arts Center,Yes,7780
+P0442,Civic Light Opera,8/4/2024,86,Adult,3.1,3526,Maplewood Performing Arts Center,No,5547
+P0576,Civic Light Opera,8/4/2024,126,Adult,3.6,4619,Maplewood Performing Arts Center,No,9198
+P0629,Library Workshop,8/5/2024,129,Youth,4.3,1677,Elmwood Library,No,3853
+P0810,Library Workshop,8/5/2024,74,Youth,4.4,1084,Elmwood Library,No,3764
+P0763,Library Workshop,8/5/2024,146,Youth,3.8,1094,Elmwood Library,No,2213
+P0891,Youth Activity,8/6/2024,95,Youth,4.1,892,Oakleaf Community Center,No,1109
+P0524,Senior Service,8/6/2024,47,Senior,4.8,519,Silver Elm Senior Center,No,1120
+P0724,Youth Activity,8/6/2024,64,Youth,4.7,929,Willow Park Community Center,No,1765
+P0594,Theatre Event,8/7/2024,119,Adult,3.5,2460,Maplewood Performing Arts Center,No,4845
+P0185,Library Workshop,8/7/2024,72,Adult,4.9,1179,Elmwood Library,No,2502
+P0276,Theatre Event,8/8/2024,124,Adult,3.8,2836,Starlight Theatre,No,7672
+P0542,Youth Activity,8/8/2024,52,Youth,4.6,898,Oakleaf Community Center,No,1463
+P0706,Civic Light Opera,8/8/2024,128,Senior,3.5,3563,Maplewood Performing Arts Center,No,5754
+P0463,Youth Activity,8/8/2024,52,Youth,4.3,984,Willow Park Community Center,No,1857
+P0178,Theatre Event,8/8/2024,163,Adult,4.8,2139,Maplewood Performing Arts Center,No,4086
+P0298,Library Workshop,8/8/2024,75,Adult,3.7,1540,Elmwood Library,Yes,3187
+P0759,Senior Service,8/9/2024,42,Senior,4.4,693,Silver Elm Senior Center,No,770
+P0068,Senior Service,8/10/2024,44,Senior,4.6,356,Silver Elm Senior Center,Yes,831
+P0412,Civic Light Opera,8/10/2024,148,Senior,4.4,4318,Maplewood Performing Arts Center,Yes,8236
+P0253,Senior Service,8/12/2024,15,Senior,5,498,Silver Elm Senior Center,No,985
+P0669,Library Workshop,8/12/2024,126,Youth,4.3,1804,Elmwood Library,No,3121
+P0961,Library Workshop,8/13/2024,90,Youth,4.2,1468,Elmwood Library,Yes,2012
+P0482,Youth Activity,8/13/2024,58,Youth,4.8,761,Oakleaf Community Center,No,1564
+P0034,Civic Light Opera,8/13/2024,116,Adult,4.5,4067,Maplewood Performing Arts Center,No,8258
+P0822,Library Workshop,8/14/2024,55,Adult,4.6,1426,Elmwood Library,Yes,2225
+P0722,Library Workshop,8/14/2024,118,Youth,3.7,1757,Hazel Branch Library,No,2215
+P0847,Library Workshop,8/14/2024,117,Youth,3.9,1588,Hazel Branch Library,No,3428
+P0418,Theatre Event,8/14/2024,159,Adult,4,2801,Starlight Theatre,Yes,6921
+P0536,Civic Light Opera,8/14/2024,80,Adult,3.9,3867,Maplewood Performing Arts Center,No,5250
+P0254,Theatre Event,8/15/2024,185,Adult,4.2,3815,Maplewood Performing Arts Center,No,6578
+P0647,Youth Activity,8/16/2024,90,Youth,3.7,548,Willow Park Community Center,No,1868
+P0593,Library Workshop,8/16/2024,117,Youth,4.1,1478,Elmwood Library,No,2472
+P0837,Civic Light Opera,8/16/2024,133,Senior,4.4,3680,Maplewood Performing Arts Center,No,8391
+P0162,Youth Activity,8/16/2024,97,Youth,4.1,720,Willow Park Community Center,No,1423
+P0735,Theatre Event,8/17/2024,111,Adult,5,2730,Maplewood Performing Arts Center,No,7703
+P0200,Senior Service,8/17/2024,20,Senior,5,496,Silver Elm Senior Center,No,1581
+P0366,Theatre Event,8/17/2024,118,Adult,3,2286,Starlight Theatre,Yes,6589
+P0247,Theatre Event,8/17/2024,174,Adult,4.2,2440,Maplewood Performing Arts Center,Yes,6462
+P0120,Theatre Event,8/17/2024,106,Adult,3.8,3204,Maplewood Performing Arts Center,No,7327
+P0869,Senior Service,8/17/2024,20,Senior,4.8,674,Silver Elm Senior Center,Yes,622
+P0388,Library Workshop,8/17/2024,75,Youth,4.8,1893,Elmwood Library,No,2898
+P0292,Library Workshop,8/18/2024,108,Youth,3.4,1942,Elmwood Library,Yes,2266
+P0985,Youth Activity,8/18/2024,67,Youth,4.5,667,Willow Park Community Center,No,1919
+P0685,Civic Light Opera,8/18/2024,104,Adult,4.2,3525,Maplewood Performing Arts Center,No,5701
+P0994,Youth Activity,8/19/2024,70,Youth,4,968,Willow Park Community Center,No,1191
+P0586,Library Workshop,8/19/2024,66,Youth,4.2,1317,Elmwood Library,No,3275
+P0698,Youth Activity,8/19/2024,92,Youth,4.3,682,Oakleaf Community Center,No,1078
+P0750,Youth Activity,8/19/2024,69,Youth,4.2,552,Oakleaf Community Center,No,1234
+P0435,Library Workshop,8/20/2024,103,Youth,5,1585,Elmwood Library,No,3296
+P0721,Civic Light Opera,8/21/2024,84,Adult,4.1,3967,Maplewood Performing Arts Center,No,6438
+P0279,Youth Activity,8/21/2024,50,Youth,4.8,598,Willow Park Community Center,No,1962
+P0424,Theatre Event,8/23/2024,131,Adult,4.3,2881,Starlight Theatre,No,6964
+P0694,Library Workshop,8/23/2024,137,Youth,3.8,1424,Elmwood Library,No,2841
+P0948,Civic Light Opera,8/23/2024,91,Senior,4.8,4857,Maplewood Performing Arts Center,No,7224
+P0765,Library Workshop,8/24/2024,115,Youth,3.5,1646,Elmwood Library,Yes,2653
+P0222,Youth Activity,8/24/2024,48,Youth,3.8,815,Oakleaf Community Center,No,1269
+P0791,Library Workshop,8/24/2024,111,Youth,3.7,1650,Hazel Branch Library,No,2806
+P0910,Theatre Event,8/24/2024,100,Adult,2.8,3088,Maplewood Performing Arts Center,No,6235
+P0638,Library Workshop,8/25/2024,56,Adult,5,1872,Elmwood Library,No,3837
+P0711,Senior Service,8/25/2024,42,Senior,4.8,547,Silver Elm Senior Center,No,901
+P0110,Library Workshop,8/26/2024,123,Youth,4.2,1832,Hazel Branch Library,No,3283
+P0157,Youth Activity,8/27/2024,96,Youth,4.9,500,Willow Park Community Center,Yes,1842
+P0992,Youth Activity,8/27/2024,71,Youth,4.2,876,Willow Park Community Center,No,1887
+P0885,Senior Service,8/28/2024,19,Senior,5,504,Silver Elm Senior Center,Yes,1263
+P0165,Library Workshop,8/28/2024,148,Youth,3.7,1449,Hazel Branch Library,No,3874
+P0322,Youth Activity,8/28/2024,94,Youth,4.8,750,Willow Park Community Center,No,1909
+P0381,Library Workshop,8/29/2024,117,Adult,4.8,1269,Elmwood Library,No,2869
+P0868,Library Workshop,8/29/2024,124,Youth,5,1737,Elmwood Library,No,2362
+P0213,Youth Activity,8/29/2024,74,Youth,4.3,869,Willow Park Community Center,Yes,1732
+P0401,Library Workshop,8/30/2024,72,Adult,3.7,1078,Hazel Branch Library,No,2270
+P0297,Senior Service,8/30/2024,42,Senior,4.8,666,Silver Elm Senior Center,Yes,912
+P0088,Youth Activity,8/30/2024,75,Youth,4.2,890,Oakleaf Community Center,No,1998
+P0572,Senior Service,8/31/2024,31,Senior,5,428,Silver Elm Senior Center,No,934
+P0402,Civic Light Opera,8/31/2024,129,Adult,3.4,3886,Maplewood Performing Arts Center,Yes,9797
+P0393,Theatre Event,8/31/2024,197,Adult,4.1,3781,Starlight Theatre,No,5542
+P0809,Theatre Event,9/2/2024,158,Adult,3.1,3759,Maplewood Performing Arts Center,No,6906
+P0691,Theatre Event,9/2/2024,102,Adult,3.9,2116,Maplewood Performing Arts Center,No,7215
+P0625,Youth Activity,9/2/2024,42,Youth,3.5,688,Willow Park Community Center,No,1345
+P0679,Civic Light Opera,9/2/2024,136,Senior,4.7,4197,Maplewood Performing Arts Center,Yes,7857
+P0106,Library Workshop,9/2/2024,100,Youth,3.1,1561,Hazel Branch Library,No,3136
+P0446,Civic Light Opera,9/3/2024,120,Adult,4.7,4082,Maplewood Performing Arts Center,No,7562
+P0096,Theatre Event,9/3/2024,117,Adult,4.2,2687,Maplewood Performing Arts Center,No,5675
+P0863,Theatre Event,9/3/2024,153,Adult,3.2,3114,Maplewood Performing Arts Center,No,5924
+P0372,Library Workshop,9/4/2024,91,Adult,4.1,1375,Elmwood Library,No,2548
+P0017,Theatre Event,9/4/2024,158,Adult,2.8,3375,Maplewood Performing Arts Center,No,4744
+P0537,Senior Service,9/4/2024,41,Senior,4.8,545,Silver Elm Senior Center,No,1534
+P0369,Library Workshop,9/4/2024,130,Youth,5,1657,Hazel Branch Library,No,3628
+P0327,Youth Activity,9/5/2024,68,Youth,4.2,610,Willow Park Community Center,No,1348
+P0539,Theatre Event,9/5/2024,128,Adult,4.2,2214,Starlight Theatre,No,4471
+P0967,Youth Activity,9/6/2024,59,Youth,4.6,510,Willow Park Community Center,No,1125
+P0981,Theatre Event,9/6/2024,172,Adult,2.9,3054,Starlight Theatre,No,4104
+P0808,Civic Light Opera,9/6/2024,139,Adult,4.3,3722,Maplewood Performing Arts Center,Yes,5743
+P0001,Theatre Event,9/6/2024,194,Adult,3.3,3229,Maplewood Performing Arts Center,Yes,4450
+P0240,Library Workshop,9/6/2024,69,Adult,3.9,1830,Elmwood Library,Yes,2917
+P0098,Theatre Event,9/6/2024,114,Adult,3.1,3011,Maplewood Performing Arts Center,No,6964
+P0898,Senior Service,9/7/2024,32,Senior,4.6,662,Silver Elm Senior Center,Yes,1104
+P0601,Library Workshop,9/8/2024,54,Youth,3.8,1905,Hazel Branch Library,No,2161
+P0738,Senior Service,9/9/2024,30,Senior,4.6,306,Silver Elm Senior Center,No,871
+P0848,Civic Light Opera,9/10/2024,123,Senior,4.3,4466,Maplewood Performing Arts Center,Yes,8685
+P0515,Library Workshop,9/10/2024,56,Adult,3.7,1935,Hazel Branch Library,No,2328
+P0257,Civic Light Opera,9/11/2024,101,Adult,3.7,3835,Maplewood Performing Arts Center,No,7209
+P0337,Senior Service,9/11/2024,42,Senior,4.4,410,Silver Elm Senior Center,No,736
+P0296,Theatre Event,9/11/2024,128,Adult,4.5,2006,Starlight Theatre,Yes,6570
+P0439,Youth Activity,9/12/2024,41,Youth,4.2,984,Willow Park Community Center,No,1149
+P0627,Theatre Event,9/12/2024,84,Adult,4,3280,Starlight Theatre,Yes,4258
+P0906,Senior Service,9/12/2024,28,Senior,4.5,463,Silver Elm Senior Center,Yes,1019
+P0411,Theatre Event,9/13/2024,164,Adult,4.5,2592,Maplewood Performing Arts Center,No,6372
+P0894,Theatre Event,9/13/2024,184,Adult,4,2149,Starlight Theatre,No,4873
+P0821,Senior Service,9/13/2024,26,Senior,4.9,762,Silver Elm Senior Center,No,823
+P0667,Library Workshop,9/14/2024,93,Adult,4.1,1101,Elmwood Library,Yes,3745
+P0362,Youth Activity,9/15/2024,73,Youth,4.7,844,Oakleaf Community Center,No,1220
+P0556,Theatre Event,9/16/2024,98,Adult,3.7,3507,Maplewood Performing Arts Center,No,7724
+P0233,Youth Activity,9/16/2024,47,Youth,4.3,929,Oakleaf Community Center,No,1891
+P0872,Library Workshop,9/16/2024,128,Youth,5,1050,Elmwood Library,No,2869
+P0575,Senior Service,9/17/2024,34,Senior,4.5,428,Silver Elm Senior Center,Yes,1121
+P0459,Library Workshop,9/17/2024,107,Adult,4.7,1151,Elmwood Library,No,2912
+P0752,Civic Light Opera,9/17/2024,94,Adult,4.5,4176,Maplewood Performing Arts Center,No,7510
+P0708,Senior Service,9/17/2024,39,Senior,5,603,Silver Elm Senior Center,Yes,1432
+P0324,Library Workshop,9/18/2024,94,Adult,4.5,1452,Hazel Branch Library,No,3577
+P0079,Theatre Event,9/18/2024,174,Adult,4.8,2803,Maplewood Performing Arts Center,No,5780
+P0011,Library Workshop,9/19/2024,111,Youth,4.1,1964,Elmwood Library,Yes,3491
+P0216,Library Workshop,9/19/2024,67,Youth,4.1,1889,Elmwood Library,No,3764
+P0134,Theatre Event,9/19/2024,185,Adult,3.7,2824,Maplewood Performing Arts Center,No,6228
+P0952,Youth Activity,9/19/2024,68,Youth,4.8,722,Oakleaf Community Center,No,1563
+P0097,Theatre Event,9/19/2024,122,Adult,5,3423,Starlight Theatre,No,5904
+P0840,Youth Activity,9/20/2024,51,Youth,4.6,736,Oakleaf Community Center,No,1877
+P0113,Civic Light Opera,9/20/2024,138,Adult,4.2,4745,Maplewood Performing Arts Center,Yes,7690
+P0112,Library Workshop,9/20/2024,63,Youth,5,1433,Hazel Branch Library,Yes,2374
+P0493,Library Workshop,9/21/2024,112,Youth,3.9,1761,Elmwood Library,No,3332
+P0603,Library Workshop,9/21/2024,119,Youth,3.2,1945,Elmwood Library,No,2395
+P0555,Senior Service,9/22/2024,45,Senior,4.9,470,Silver Elm Senior Center,Yes,1174
+P0232,Theatre Event,9/22/2024,169,Adult,2.6,2826,Maplewood Performing Arts Center,Yes,4590
+P0033,Library Workshop,9/22/2024,122,Youth,3.9,1955,Elmwood Library,No,3717
+P0095,Senior Service,9/22/2024,32,Senior,4.6,481,Silver Elm Senior Center,Yes,1492
+P0333,Library Workshop,9/22/2024,129,Adult,4,1011,Hazel Branch Library,No,3723
+P0090,Theatre Event,9/23/2024,167,Adult,4.6,3363,Maplewood Performing Arts Center,No,6387
+P0047,Theatre Event,9/23/2024,85,Adult,3.9,2661,Maplewood Performing Arts Center,Yes,6308
+P0581,Theatre Event,9/23/2024,83,Adult,3.5,3435,Starlight Theatre,Yes,6282
+P0636,Theatre Event,9/24/2024,152,Adult,3.4,3272,Maplewood Performing Arts Center,No,4215
+P0391,Civic Light Opera,9/24/2024,130,Senior,4.4,4404,Maplewood Performing Arts Center,No,6644
+P0072,Library Workshop,9/24/2024,127,Youth,3.9,1058,Hazel Branch Library,No,2643
+P0609,Theatre Event,9/24/2024,89,Adult,3.5,3323,Maplewood Performing Arts Center,No,6272
+P0562,Library Workshop,9/25/2024,148,Youth,4.6,1322,Hazel Branch Library,No,2236
+P0370,Library Workshop,9/25/2024,62,Youth,3.5,1620,Hazel Branch Library,No,3118
+P0067,Library Workshop,9/25/2024,120,Youth,4.4,1428,Elmwood Library,Yes,2138
+P0491,Theatre Event,9/25/2024,83,Adult,3.2,3035,Maplewood Performing Arts Center,Yes,4865
+P0846,Theatre Event,9/26/2024,94,Adult,3.8,3336,Starlight Theatre,No,5894
+P0720,Youth Activity,9/26/2024,64,Youth,4.6,812,Willow Park Community Center,Yes,1331
+P0754,Theatre Event,9/26/2024,83,Adult,3.8,2213,Maplewood Performing Arts Center,No,7862
+P0519,Civic Light Opera,9/27/2024,111,Adult,3.5,4209,Maplewood Performing Arts Center,No,7624
+P0277,Senior Service,9/27/2024,22,Senior,4.6,642,Silver Elm Senior Center,No,1207
+P0321,Theatre Event,9/28/2024,145,Adult,4.1,3048,Starlight Theatre,No,7156
+P0888,Library Workshop,9/28/2024,78,Youth,5,1137,Hazel Branch Library,No,2909
+P0375,Library Workshop,9/28/2024,72,Youth,4.6,1734,Hazel Branch Library,No,3457
+P0009,Youth Activity,9/29/2024,58,Youth,4.6,903,Oakleaf Community Center,Yes,1337
+P0398,Theatre Event,9/29/2024,195,Adult,3.7,3710,Starlight Theatre,Yes,4115
+P0856,Library Workshop,9/30/2024,104,Youth,3.8,1931,Hazel Branch Library,No,2820
+P0779,Youth Activity,10/1/2024,97,Youth,3.3,540,Oakleaf Community Center,No,1233
+P0341,Theatre Event,10/2/2024,161,Adult,4.2,2812,Starlight Theatre,No,5854
+P0526,Theatre Event,10/2/2024,178,Adult,3.1,2196,Maplewood Performing Arts Center,Yes,7297
+P0544,Youth Activity,10/2/2024,89,Youth,4.3,623,Oakleaf Community Center,No,1310
+P0384,Senior Service,10/2/2024,30,Senior,4.8,799,Silver Elm Senior Center,No,1194
+P0977,Youth Activity,10/3/2024,65,Youth,4.1,659,Oakleaf Community Center,No,1780
+P0130,Theatre Event,10/3/2024,105,Adult,3,3109,Maplewood Performing Arts Center,No,5361
+P0748,Theatre Event,10/3/2024,142,Adult,3.9,2501,Maplewood Performing Arts Center,Yes,7258
+P0174,Library Workshop,10/3/2024,74,Adult,3.6,1578,Elmwood Library,No,2509
+P0653,Youth Activity,10/4/2024,61,Youth,5,856,Oakleaf Community Center,No,1675
+P0119,Senior Service,10/5/2024,21,Senior,4.8,739,Silver Elm Senior Center,Yes,1543
+P0813,Library Workshop,10/5/2024,116,Adult,4.6,1597,Elmwood Library,No,2976
+P0145,Library Workshop,10/6/2024,102,Youth,3.9,1737,Hazel Branch Library,No,2607
+P0261,Youth Activity,10/6/2024,41,Youth,4.5,784,Willow Park Community Center,No,1612
+P0937,Library Workshop,10/7/2024,130,Youth,4,1861,Elmwood Library,No,3700
+P0413,Civic Light Opera,10/7/2024,148,Senior,4.1,4865,Maplewood Performing Arts Center,No,7721
+P0534,Youth Activity,10/8/2024,53,Youth,4.6,759,Oakleaf Community Center,Yes,1254
+P0973,Youth Activity,10/8/2024,86,Youth,4.8,651,Oakleaf Community Center,No,1398
+P0209,Library Workshop,10/8/2024,117,Youth,4,1863,Hazel Branch Library,Yes,3310
+P0220,Senior Service,10/8/2024,49,Senior,4.5,321,Silver Elm Senior Center,Yes,792
+P0228,Theatre Event,10/8/2024,161,Adult,3.5,2053,Starlight Theatre,No,4783
+P0597,Youth Activity,10/8/2024,52,Youth,3.7,670,Willow Park Community Center,Yes,1533
+P0564,Library Workshop,10/9/2024,136,Adult,4.1,1508,Hazel Branch Library,Yes,2210
+P0359,Civic Light Opera,10/9/2024,124,Adult,3.7,3645,Maplewood Performing Arts Center,No,6264
+P1000,Theatre Event,10/11/2024,123,Adult,2.9,3004,Maplewood Performing Arts Center,No,7420
+P0527,Theatre Event,10/12/2024,156,Adult,3.4,2569,Starlight Theatre,Yes,5065
+P0851,Library Workshop,10/13/2024,119,Youth,4.3,1323,Elmwood Library,No,3648
+P0070,Civic Light Opera,10/13/2024,136,Senior,4.5,3581,Maplewood Performing Arts Center,No,7604
+P0170,Youth Activity,10/13/2024,97,Youth,4.8,751,Oakleaf Community Center,No,1871
+P0830,Theatre Event,10/15/2024,193,Adult,5,2966,Starlight Theatre,Yes,7061
+P0270,Library Workshop,10/15/2024,136,Youth,4.2,1710,Elmwood Library,No,3550
+P0804,Youth Activity,10/16/2024,95,Youth,4.6,724,Oakleaf Community Center,No,1191
+P0071,Senior Service,10/16/2024,29,Senior,4.7,302,Silver Elm Senior Center,No,1293
+P0817,Youth Activity,10/16/2024,98,Youth,4.6,515,Oakleaf Community Center,No,1530
+P0975,Library Workshop,10/17/2024,136,Youth,5,1446,Elmwood Library,No,2092
+P0879,Library Workshop,10/17/2024,64,Youth,3.8,1056,Hazel Branch Library,No,2070
+P0022,Library Workshop,10/17/2024,58,Youth,3.9,1896,Elmwood Library,No,3096
+P0189,Theatre Event,10/18/2024,171,Adult,4.1,2716,Maplewood Performing Arts Center,No,5982
+P0723,Library Workshop,10/19/2024,99,Adult,3.9,1716,Hazel Branch Library,No,2550
+P0652,Theatre Event,10/19/2024,162,Adult,4.4,3600,Starlight Theatre,No,4306
+P0676,Civic Light Opera,10/19/2024,137,Adult,4.1,4853,Maplewood Performing Arts Center,Yes,5767
+P0658,Theatre Event,10/20/2024,81,Adult,3.8,3779,Starlight Theatre,No,6957
+P0911,Youth Activity,10/20/2024,59,Youth,4.6,853,Oakleaf Community Center,Yes,1265
+P0528,Library Workshop,10/20/2024,87,Youth,2.8,1544,Elmwood Library,No,3128
+P0731,Library Workshop,10/20/2024,82,Adult,4.2,1976,Elmwood Library,No,2604
+P0263,Library Workshop,10/21/2024,70,Youth,4.3,1909,Hazel Branch Library,No,2313
+P0437,Library Workshop,10/21/2024,102,Youth,3.8,1451,Hazel Branch Library,No,3039
+P0703,Theatre Event,10/22/2024,148,Adult,3.3,3320,Starlight Theatre,Yes,5196
+P0531,Senior Service,10/22/2024,45,Senior,5,580,Silver Elm Senior Center,No,814
+P0040,Theatre Event,10/23/2024,80,Adult,3.3,3637,Starlight Theatre,Yes,5007
+P0776,Library Workshop,10/23/2024,118,Youth,3.1,1734,Elmwood Library,No,2249
+P0421,Senior Service,10/24/2024,37,Senior,4.7,653,Silver Elm Senior Center,Yes,1425
+P0029,Youth Activity,10/25/2024,97,Youth,5,593,Willow Park Community Center,Yes,1649
+P0043,Library Workshop,10/25/2024,50,Youth,4.2,1534,Elmwood Library,No,2060
+P0204,Senior Service,10/26/2024,33,Senior,4.8,362,Silver Elm Senior Center,Yes,1090
+P0602,Library Workshop,10/26/2024,116,Youth,4.5,1586,Elmwood Library,Yes,3089
+P0485,Youth Activity,10/27/2024,76,Youth,4.5,827,Oakleaf Community Center,No,1266
+P0285,Youth Activity,10/27/2024,66,Youth,3.9,687,Willow Park Community Center,Yes,1475
+P0766,Youth Activity,10/27/2024,83,Youth,4.6,657,Willow Park Community Center,No,1325
+P0386,Senior Service,10/27/2024,39,Senior,4.7,305,Silver Elm Senior Center,No,1519
+P0614,Library Workshop,10/27/2024,96,Youth,3.4,1549,Elmwood Library,No,2987
+P0475,Theatre Event,10/28/2024,112,Adult,3.2,2609,Maplewood Performing Arts Center,No,6708
+P0949,Senior Service,10/28/2024,47,Senior,4.6,578,Silver Elm Senior Center,No,1317
+P0909,Library Workshop,10/28/2024,129,Adult,4.6,1678,Elmwood Library,No,3830
+P0615,Senior Service,10/30/2024,48,Senior,4.7,347,Silver Elm Senior Center,No,950
+P0942,Youth Activity,10/30/2024,87,Youth,4.7,755,Willow Park Community Center,No,1105
+P0969,Youth Activity,10/30/2024,88,Youth,4.2,942,Willow Park Community Center,No,1388
+P0163,Youth Activity,10/30/2024,62,Youth,4.3,601,Oakleaf Community Center,No,1191
+P0326,Youth Activity,10/31/2024,86,Youth,3.9,886,Oakleaf Community Center,No,1347
+P0395,Theatre Event,10/31/2024,159,Adult,3.6,3576,Maplewood Performing Arts Center,No,5321
+P0309,Senior Service,11/1/2024,41,Senior,4.4,455,Silver Elm Senior Center,Yes,1107
+P0838,Theatre Event,11/1/2024,162,Adult,4.6,2302,Starlight Theatre,Yes,5223
+P0037,Theatre Event,11/1/2024,177,Adult,4.7,3721,Starlight Theatre,Yes,6819
+P0504,Senior Service,11/2/2024,48,Senior,4.6,383,Silver Elm Senior Center,No,1402
+P0182,Library Workshop,11/2/2024,101,Adult,4.2,1024,Elmwood Library,Yes,2888
+P0193,Civic Light Opera,11/3/2024,134,Adult,4,4260,Maplewood Performing Arts Center,No,8262
+P0681,Senior Service,11/3/2024,16,Senior,4.8,445,Silver Elm Senior Center,Yes,1196
+P0347,Youth Activity,11/3/2024,91,Youth,4.1,982,Oakleaf Community Center,No,1293
+P0142,Library Workshop,11/4/2024,55,Youth,4.2,1187,Elmwood Library,No,3630
+P0632,Senior Service,11/4/2024,29,Senior,5,393,Silver Elm Senior Center,No,1265
+P0288,Theatre Event,11/5/2024,99,Adult,3.2,2439,Starlight Theatre,No,5574
+P0100,Library Workshop,11/5/2024,127,Adult,3.5,1432,Hazel Branch Library,No,3951
+P0805,Theatre Event,11/5/2024,182,Adult,3.5,2566,Maplewood Performing Arts Center,No,6621
+P0056,Civic Light Opera,11/5/2024,126,Adult,3.8,3646,Maplewood Performing Arts Center,No,8982
+P0523,Civic Light Opera,11/5/2024,140,Senior,4.2,4373,Maplewood Performing Arts Center,Yes,9452
+P0561,Youth Activity,11/6/2024,68,Youth,4.6,736,Oakleaf Community Center,No,1276
+P0803,Youth Activity,11/6/2024,82,Youth,4.6,634,Oakleaf Community Center,No,1842
+P0924,Senior Service,11/7/2024,28,Senior,4,495,Silver Elm Senior Center,Yes,1201
+P0604,Library Workshop,11/7/2024,120,Youth,4.2,1556,Hazel Branch Library,No,3916
+P0069,Library Workshop,11/7/2024,67,Adult,4.1,1184,Hazel Branch Library,Yes,3358
+P0899,Library Workshop,11/7/2024,123,Youth,4.3,1600,Elmwood Library,No,2764
+P0379,Senior Service,11/8/2024,34,Senior,4.4,614,Silver Elm Senior Center,No,1555
+P0968,Library Workshop,11/9/2024,99,Adult,3.4,1088,Hazel Branch Library,No,3375
+P0654,Youth Activity,11/9/2024,43,Youth,4.3,791,Oakleaf Community Center,Yes,1465
+P0695,Library Workshop,11/11/2024,66,Youth,4.3,1149,Elmwood Library,No,3561
+P0908,Theatre Event,11/11/2024,147,Adult,3.2,2445,Starlight Theatre,Yes,4715
+P0486,Civic Light Opera,11/11/2024,117,Senior,3.1,3971,Maplewood Performing Arts Center,No,7940
+P0739,Theatre Event,11/11/2024,178,Adult,5,2523,Starlight Theatre,No,6068
+P0914,Theatre Event,11/12/2024,90,Adult,3.6,3819,Starlight Theatre,No,6146
+P0236,Youth Activity,11/12/2024,67,Youth,4.2,617,Oakleaf Community Center,No,1075
+P0348,Library Workshop,11/13/2024,126,Adult,4.4,1309,Elmwood Library,No,2539
+P0841,Library Workshop,11/13/2024,104,Youth,4.1,1638,Elmwood Library,No,2604
+P0129,Library Workshop,11/13/2024,57,Youth,3.5,1012,Elmwood Library,No,2100
+P0492,Youth Activity,11/13/2024,45,Youth,4.5,891,Oakleaf Community Center,Yes,1266
+P0769,Theatre Event,11/14/2024,197,Adult,3.8,2745,Starlight Theatre,No,6652
+P0671,Library Workshop,11/16/2024,81,Adult,3.5,1028,Hazel Branch Library,No,2696
+P0499,Civic Light Opera,11/16/2024,141,Adult,4.8,4419,Maplewood Performing Arts Center,No,5069
+P0505,Youth Activity,11/16/2024,90,Youth,5,609,Oakleaf Community Center,Yes,1583
+P0964,Theatre Event,11/17/2024,189,Adult,4.6,2195,Starlight Theatre,No,7491
+P0077,Senior Service,11/17/2024,31,Senior,4.5,391,Silver Elm Senior Center,Yes,864
+P0820,Theatre Event,11/17/2024,158,Adult,4.2,2584,Starlight Theatre,No,6735
+P0489,Civic Light Opera,11/19/2024,141,Senior,3.7,4437,Maplewood Performing Arts Center,No,5865
+P0582,Civic Light Opera,11/20/2024,101,Adult,4.5,4315,Maplewood Performing Arts Center,No,5403
+P0382,Youth Activity,11/20/2024,75,Youth,4.1,506,Oakleaf Community Center,No,1304
+P0267,Youth Activity,11/20/2024,59,Youth,4.4,979,Willow Park Community Center,No,1399
+P0919,Senior Service,11/20/2024,37,Senior,4.9,541,Silver Elm Senior Center,No,729
+P0770,Senior Service,11/21/2024,42,Senior,5,678,Silver Elm Senior Center,No,1321
+P0461,Library Workshop,11/21/2024,66,Youth,3.8,1337,Elmwood Library,No,3399
+P0659,Youth Activity,11/22/2024,98,Youth,4,941,Oakleaf Community Center,Yes,1979
+P0227,Civic Light Opera,11/22/2024,127,Adult,3.8,3757,Maplewood Performing Arts Center,No,9905
+P0291,Library Workshop,11/22/2024,55,Youth,4.7,1576,Hazel Branch Library,No,2327
+P0107,Theatre Event,11/22/2024,121,Adult,4.2,3738,Maplewood Performing Arts Center,No,6236
+P0487,Library Workshop,11/22/2024,84,Youth,4.6,1805,Elmwood Library,No,3261
+P0506,Library Workshop,11/23/2024,79,Youth,5,1905,Elmwood Library,Yes,2176
+P0693,Theatre Event,11/23/2024,144,Adult,3.6,2645,Maplewood Performing Arts Center,Yes,4677
+P0637,Theatre Event,11/23/2024,156,Adult,4.5,2726,Maplewood Performing Arts Center,No,6601
+P0892,Senior Service,11/24/2024,15,Senior,5,372,Silver Elm Senior Center,No,939
+P0678,Theatre Event,11/24/2024,134,Adult,3,3858,Maplewood Performing Arts Center,Yes,6073
+P0058,Library Workshop,11/24/2024,116,Adult,4.3,1174,Hazel Branch Library,No,3948
+P0474,Senior Service,11/25/2024,26,Senior,4.9,517,Silver Elm Senior Center,No,1155
+P0588,Library Workshop,11/25/2024,127,Adult,4.5,1356,Elmwood Library,No,3986
+P0468,Senior Service,11/26/2024,21,Senior,4.9,345,Silver Elm Senior Center,Yes,901
+P0128,Senior Service,11/26/2024,25,Senior,4.8,409,Silver Elm Senior Center,Yes,791
+P0230,Youth Activity,11/26/2024,96,Youth,4.7,863,Oakleaf Community Center,Yes,1238
+P0962,Youth Activity,11/27/2024,67,Youth,3.8,910,Oakleaf Community Center,No,1051
+P0558,Library Workshop,11/27/2024,144,Adult,4.4,1896,Hazel Branch Library,Yes,2218
+P0535,Senior Service,11/28/2024,29,Senior,4.8,415,Silver Elm Senior Center,No,668
+P0740,Theatre Event,11/28/2024,129,Adult,4.9,3962,Starlight Theatre,Yes,5808
+P0920,Library Workshop,11/28/2024,143,Youth,4.6,1105,Elmwood Library,No,2000
+P0083,Theatre Event,11/29/2024,173,Adult,3.8,3230,Maplewood Performing Arts Center,No,7801
+P0745,Library Workshop,11/29/2024,63,Adult,4.4,1542,Elmwood Library,No,2990
+P0225,Library Workshop,11/30/2024,79,Adult,4.3,1494,Hazel Branch Library,Yes,2717
+P0064,Theatre Event,11/30/2024,196,Adult,3.3,2415,Maplewood Performing Arts Center,No,5167
+P0958,Library Workshop,12/1/2024,114,Youth,4.6,1794,Elmwood Library,No,2132
+P0358,Youth Activity,12/1/2024,50,Youth,4.6,748,Oakleaf Community Center,Yes,1901
+P0065,Library Workshop,12/1/2024,74,Adult,4.7,1092,Hazel Branch Library,Yes,2335
+P0566,Youth Activity,12/2/2024,75,Youth,4.6,518,Willow Park Community Center,Yes,1422
+P0346,Youth Activity,12/2/2024,98,Youth,4.8,788,Willow Park Community Center,No,1890
+P0734,Theatre Event,12/3/2024,182,Adult,3.3,3511,Starlight Theatre,No,4928
+P0076,Youth Activity,12/3/2024,87,Youth,4.2,928,Oakleaf Community Center,No,1479
+P0589,Library Workshop,12/3/2024,52,Youth,3.9,1518,Elmwood Library,Yes,3857
+P0211,Theatre Event,12/3/2024,152,Adult,4.3,2582,Maplewood Performing Arts Center,No,6418
+P0397,Senior Service,12/4/2024,31,Senior,5,523,Silver Elm Senior Center,Yes,602
+P0256,Youth Activity,12/4/2024,93,Youth,4.4,541,Oakleaf Community Center,No,1245
+P0978,Library Workshop,12/4/2024,115,Adult,4.8,1663,Elmwood Library,Yes,2010
+P0223,Library Workshop,12/5/2024,146,Youth,3.7,1713,Hazel Branch Library,Yes,3198
+P0702,Library Workshop,12/5/2024,125,Adult,4.6,1650,Elmwood Library,No,3475
+P0842,Youth Activity,12/5/2024,69,Youth,4.4,826,Oakleaf Community Center,No,1889
+P0950,Youth Activity,12/5/2024,69,Youth,4.8,724,Willow Park Community Center,No,1462
+P0480,Theatre Event,12/6/2024,189,Adult,4,3157,Starlight Theatre,No,7427
+P0989,Library Workshop,12/7/2024,72,Youth,4.5,1776,Hazel Branch Library,No,2904
+P0705,Library Workshop,12/7/2024,107,Youth,3.8,1827,Elmwood Library,No,2298
+P0778,Youth Activity,12/7/2024,46,Youth,3.7,865,Oakleaf Community Center,Yes,1402
+P0353,Youth Activity,12/7/2024,96,Youth,4.2,927,Oakleaf Community Center,No,1882
+P0843,Library Workshop,12/7/2024,73,Youth,4.3,1534,Elmwood Library,No,2228
+P0947,Library Workshop,12/8/2024,111,Youth,4.1,1263,Elmwood Library,No,3660
+P0444,Theatre Event,12/9/2024,117,Adult,4.9,3654,Starlight Theatre,No,7996
+P0660,Youth Activity,12/10/2024,41,Youth,4.7,742,Oakleaf Community Center,No,1122
+P0377,Senior Service,12/10/2024,16,Senior,4.7,519,Silver Elm Senior Center,No,705
+P0208,Youth Activity,12/10/2024,53,Youth,4.6,920,Oakleaf Community Center,No,1750
+P0915,Youth Activity,12/11/2024,98,Youth,4.6,956,Oakleaf Community Center,Yes,1916
+P0630,Library Workshop,12/11/2024,95,Adult,3.9,1455,Elmwood Library,No,2628
+P0737,Theatre Event,12/11/2024,147,Adult,3.9,2444,Starlight Theatre,No,7454
+P0490,Senior Service,12/11/2024,35,Senior,4.7,513,Silver Elm Senior Center,No,720
+P0212,Youth Activity,12/12/2024,78,Youth,4.2,989,Oakleaf Community Center,No,1975
+P0315,Senior Service,12/12/2024,20,Senior,4.8,394,Silver Elm Senior Center,No,1365
+P0570,Theatre Event,12/12/2024,93,Adult,4.1,3860,Maplewood Performing Arts Center,No,5080
+P0419,Youth Activity,12/12/2024,63,Youth,4.4,517,Oakleaf Community Center,Yes,1112
+P0264,Theatre Event,12/13/2024,155,Adult,3.3,3173,Starlight Theatre,No,4035
+P0431,Library Workshop,12/13/2024,87,Youth,4.4,1277,Hazel Branch Library,No,3910
+P0390,Senior Service,12/13/2024,44,Senior,4.8,614,Silver Elm Senior Center,No,927
+P0761,Library Workshop,12/13/2024,135,Youth,4.5,1987,Elmwood Library,Yes,2520
+P0983,Library Workshop,12/14/2024,88,Adult,4.1,1298,Elmwood Library,No,3843
+P0714,Theatre Event,12/15/2024,116,Adult,3.1,2114,Maplewood Performing Arts Center,No,4030
+P0771,Library Workshop,12/15/2024,127,Youth,4.2,1236,Hazel Branch Library,Yes,3923
+P0858,Theatre Event,12/15/2024,195,Adult,3,3684,Maplewood Performing Arts Center,Yes,5508
+P0783,Library Workshop,12/15/2024,134,Adult,5,1868,Hazel Branch Library,No,3482
+P0342,Theatre Event,12/16/2024,155,Adult,4.4,2494,Starlight Theatre,Yes,7182
+P0886,Library Workshop,12/16/2024,103,Youth,4.8,1335,Elmwood Library,No,2320
+P0498,Library Workshop,12/16/2024,87,Youth,4.6,1555,Elmwood Library,No,3865
+P0621,Library Workshop,12/17/2024,92,Youth,4.1,1209,Elmwood Library,No,3532
+P0086,Theatre Event,12/18/2024,117,Adult,4.3,3986,Maplewood Performing Arts Center,No,5152
+P0238,Library Workshop,12/20/2024,78,Youth,3.6,1227,Hazel Branch Library,Yes,3459
+P0026,Senior Service,12/20/2024,37,Senior,4.2,410,Silver Elm Senior Center,Yes,1079
+P0406,Senior Service,12/20/2024,21,Senior,4.2,776,Silver Elm Senior Center,No,1526
+P0768,Senior Service,12/21/2024,29,Senior,5,502,Silver Elm Senior Center,Yes,813
+P0275,Theatre Event,12/22/2024,84,Adult,3.3,3432,Starlight Theatre,No,5985
+P0059,Library Workshop,12/22/2024,99,Youth,5,1092,Elmwood Library,No,2204
+P0268,Youth Activity,12/22/2024,98,Youth,4.5,952,Willow Park Community Center,No,1103
+P0502,Theatre Event,12/22/2024,131,Adult,3.7,3961,Starlight Theatre,No,7865
+P0139,Theatre Event,12/22/2024,142,Adult,4.9,2443,Starlight Theatre,Yes,4226
+P0984,Library Workshop,12/23/2024,105,Youth,4.1,1750,Elmwood Library,No,2873
+P0928,Theatre Event,12/23/2024,152,Adult,3.3,2667,Starlight Theatre,No,4680
+P0252,Theatre Event,12/23/2024,160,Adult,3.3,3248,Starlight Theatre,No,7039
+P0746,Senior Service,12/23/2024,43,Senior,4.6,405,Silver Elm Senior Center,No,1335
+P0525,Senior Service,12/24/2024,26,Senior,5,583,Silver Elm Senior Center,No,911
+P0546,Theatre Event,12/24/2024,132,Adult,3.7,3107,Starlight Theatre,No,6715
+P0688,Library Workshop,12/25/2024,65,Adult,4.4,1537,Elmwood Library,No,3095
+P0355,Library Workshop,12/25/2024,133,Adult,4.8,1824,Hazel Branch Library,No,3113
+P0764,Youth Activity,12/25/2024,53,Youth,3.8,566,Willow Park Community Center,No,1011
+P0205,Youth Activity,12/25/2024,86,Youth,4.2,902,Oakleaf Community Center,No,1674
+P0758,Theatre Event,12/25/2024,155,Adult,3.7,3858,Starlight Theatre,No,5101
+P0433,Youth Activity,12/25/2024,73,Youth,4.5,920,Oakleaf Community Center,No,1896
+P0010,Youth Activity,12/26/2024,49,Youth,4.9,860,Willow Park Community Center,No,1217
+P0258,Youth Activity,12/26/2024,71,Youth,4.5,973,Willow Park Community Center,No,1011
+P0374,Youth Activity,12/27/2024,78,Youth,4.2,795,Willow Park Community Center,No,1852
+P0988,Theatre Event,12/28/2024,193,Adult,3.3,3625,Maplewood Performing Arts Center,No,4029
+P0664,Library Workshop,12/28/2024,98,Youth,4.2,1099,Hazel Branch Library,No,3597
+P0132,Library Workshop,12/28/2024,95,Adult,4.1,1452,Elmwood Library,Yes,3289
+P0451,Senior Service,12/28/2024,30,Senior,4.4,454,Silver Elm Senior Center,Yes,883
+P0584,Theatre Event,12/28/2024,187,Adult,3.4,2177,Starlight Theatre,No,6427
+P0138,Youth Activity,12/28/2024,60,Youth,4.5,581,Oakleaf Community Center,No,1200
+P0280,Senior Service,12/29/2024,15,Senior,4.7,682,Silver Elm Senior Center,Yes,657
+P0330,Library Workshop,12/29/2024,65,Youth,4.2,1495,Elmwood Library,Yes,2333
+P0939,Library Workshop,12/29/2024,124,Adult,4.4,1869,Elmwood Library,No,2939
+P0692,Theatre Event,12/30/2024,156,Adult,3.6,2550,Maplewood Performing Arts Center,No,5711
+P0422,Senior Service,1/1/2025,18,Senior,4.7,622,Silver Elm Senior Center,Yes,670
+P0873,Youth Activity,1/1/2025,45,Youth,5,815,Willow Park Community Center,No,1953
+P0704,Library Workshop,1/1/2025,129,Adult,4.1,1098,Elmwood Library,Yes,2138
+P0168,Library Workshop,1/1/2025,117,Youth,3.7,1176,Elmwood Library,Yes,2057
+P0727,Library Workshop,1/2/2025,145,Adult,4.5,1213,Elmwood Library,Yes,3353
+P0878,Youth Activity,1/2/2025,45,Youth,4,822,Oakleaf Community Center,Yes,1202
+P0793,Theatre Event,1/3/2025,87,Adult,2.6,3831,Starlight Theatre,No,7150
+P0094,Youth Activity,1/3/2025,68,Youth,4.3,954,Willow Park Community Center,No,1229
+P0378,Library Workshop,1/4/2025,119,Youth,4.4,1098,Elmwood Library,No,2885
+P0432,Senior Service,1/4/2025,33,Senior,4.5,356,Silver Elm Senior Center,No,1539
+P0662,Civic Light Opera,1/4/2025,91,Adult,4.7,4860,Maplewood Performing Arts Center,No,5505
+P0501,Youth Activity,1/5/2025,96,Youth,4.9,797,Oakleaf Community Center,No,1109
+P0974,Library Workshop,1/5/2025,132,Youth,4.5,1897,Elmwood Library,No,2354
+P0790,Civic Light Opera,1/5/2025,132,Senior,4,4804,Maplewood Performing Arts Center,No,9859
+P0286,Library Workshop,1/5/2025,101,Youth,4.4,1876,Hazel Branch Library,Yes,2210
+P0606,Theatre Event,1/5/2025,192,Adult,4.1,3884,Starlight Theatre,No,4048
+P0946,Library Workshop,1/5/2025,133,Youth,3.9,1544,Hazel Branch Library,Yes,3181
+P0394,Senior Service,1/6/2025,41,Senior,4.6,300,Silver Elm Senior Center,Yes,1330
+P0643,Library Workshop,1/6/2025,52,Adult,3.9,1491,Elmwood Library,No,2844
+P0540,Library Workshop,1/8/2025,144,Youth,3.4,1366,Hazel Branch Library,No,3074
+P0317,Theatre Event,1/8/2025,153,Adult,3.4,2270,Maplewood Performing Arts Center,Yes,5510
+P0733,Youth Activity,1/8/2025,92,Youth,3.1,650,Oakleaf Community Center,Yes,1800
+P0052,Senior Service,1/9/2025,32,Senior,4.8,393,Silver Elm Senior Center,No,1261
+P0826,Civic Light Opera,1/10/2025,149,Adult,4.4,3632,Maplewood Performing Arts Center,No,7838
+P0613,Youth Activity,1/10/2025,66,Youth,4.8,909,Oakleaf Community Center,Yes,1425
+P0415,Youth Activity,1/10/2025,72,Youth,4.5,596,Willow Park Community Center,No,1131
+P0508,Senior Service,1/11/2025,39,Senior,5,623,Silver Elm Senior Center,No,641
+P0751,Library Workshop,1/11/2025,112,Adult,4.3,1989,Elmwood Library,No,2395
+P0628,Youth Activity,1/12/2025,91,Youth,4.1,546,Willow Park Community Center,No,1887
+P0114,Senior Service,1/12/2025,42,Senior,4.8,483,Silver Elm Senior Center,No,689
+P0041,Library Workshop,1/13/2025,78,Youth,4.5,1454,Hazel Branch Library,No,2302
+P0641,Library Workshop,1/13/2025,131,Adult,4,1576,Elmwood Library,Yes,2762
+P0530,Senior Service,1/13/2025,24,Senior,4.4,695,Silver Elm Senior Center,No,603
+P0176,Library Workshop,1/13/2025,116,Youth,4.6,1194,Hazel Branch Library,No,2463
+P0610,Youth Activity,1/13/2025,55,Youth,3.8,809,Willow Park Community Center,Yes,1609
+P0002,Civic Light Opera,1/14/2025,95,Senior,4,4702,Maplewood Performing Arts Center,Yes,9595
+P0876,Library Workshop,1/14/2025,105,Youth,4.9,1127,Hazel Branch Library,No,3276
+P0180,Library Workshop,1/14/2025,70,Youth,3.9,1432,Hazel Branch Library,No,3492
+P0304,Youth Activity,1/14/2025,87,Youth,4.3,880,Oakleaf Community Center,Yes,1986
+P0580,Library Workshop,1/15/2025,100,Adult,3.4,1388,Elmwood Library,No,2157
+P0483,Theatre Event,1/15/2025,186,Adult,3.7,3092,Starlight Theatre,No,4191
+P0864,Theatre Event,1/15/2025,169,Adult,4.8,2588,Maplewood Performing Arts Center,No,5407
+P0760,Senior Service,1/16/2025,29,Senior,4.9,510,Silver Elm Senior Center,Yes,1159
+P0313,Library Workshop,1/16/2025,61,Adult,3.8,1454,Hazel Branch Library,No,2382
+P0126,Theatre Event,1/17/2025,167,Adult,3.6,2905,Starlight Theatre,No,4782
+P0700,Theatre Event,1/17/2025,185,Adult,4,2631,Maplewood Performing Arts Center,No,6806
+P0548,Youth Activity,1/17/2025,57,Youth,3.7,705,Oakleaf Community Center,No,1867
+P0657,Library Workshop,1/18/2025,134,Youth,3.6,1478,Hazel Branch Library,No,2100
+P0901,Library Workshop,1/18/2025,77,Adult,4.4,1041,Hazel Branch Library,Yes,2699
+P0331,Theatre Event,1/19/2025,156,Adult,4.2,3813,Maplewood Performing Arts Center,Yes,6020
+P0895,Youth Activity,1/19/2025,82,Youth,4,963,Oakleaf Community Center,Yes,1896
+P0283,Theatre Event,1/20/2025,139,Adult,3.9,3227,Maplewood Performing Arts Center,No,4275
+P0619,Senior Service,1/20/2025,16,Senior,5,398,Silver Elm Senior Center,No,890
+P0933,Civic Light Opera,1/21/2025,91,Adult,4,4776,Maplewood Performing Arts Center,Yes,6293
+P0623,Theatre Event,1/21/2025,181,Adult,3.9,3099,Starlight Theatre,No,6132
+P0932,Senior Service,1/21/2025,25,Senior,4.4,569,Silver Elm Senior Center,No,1149
+P0144,Theatre Event,1/22/2025,181,Adult,2.9,3214,Maplewood Performing Arts Center,No,4219
+P0880,Library Workshop,1/22/2025,64,Adult,4.5,1371,Elmwood Library,Yes,2513
+P0471,Library Workshop,1/23/2025,141,Adult,5,1333,Elmwood Library,Yes,2089
+P0543,Library Workshop,1/23/2025,113,Youth,5,1368,Elmwood Library,No,3016
+P0018,Theatre Event,1/23/2025,138,Adult,5,2099,Starlight Theatre,No,6305
+P0293,Senior Service,1/23/2025,18,Senior,4.9,665,Silver Elm Senior Center,Yes,1251
+P0454,Civic Light Opera,1/24/2025,142,Adult,4.4,4214,Maplewood Performing Arts Center,No,7121
+P0965,Library Workshop,1/25/2025,59,Youth,3.8,1970,Hazel Branch Library,No,2401
+P0352,Senior Service,1/27/2025,29,Senior,5,524,Silver Elm Senior Center,No,1516
+P0596,Theatre Event,1/27/2025,178,Adult,3.2,3872,Maplewood Performing Arts Center,No,7832
+P0931,Library Workshop,1/28/2025,86,Adult,3.9,1866,Hazel Branch Library,No,2942
+P0192,Senior Service,1/28/2025,39,Senior,4.9,375,Silver Elm Senior Center,No,1496
+P0507,Civic Light Opera,1/28/2025,90,Senior,4.4,4024,Maplewood Performing Arts Center,No,8879
+P0116,Senior Service,1/28/2025,40,Senior,5,374,Silver Elm Senior Center,Yes,1567
+P0260,Library Workshop,1/28/2025,115,Youth,4.4,1635,Hazel Branch Library,No,2922
+P0833,Library Workshop,1/29/2025,79,Adult,4.6,1913,Hazel Branch Library,Yes,2218
+P0409,Civic Light Opera,1/30/2025,140,Senior,4.3,4133,Maplewood Performing Arts Center,No,8199
+P0571,Theatre Event,1/30/2025,162,Adult,2.9,2343,Maplewood Performing Arts Center,No,5302
+P0966,Theatre Event,1/30/2025,173,Adult,5,3515,Starlight Theatre,No,5598
+P0927,Library Workshop,1/31/2025,75,Youth,4.5,1728,Elmwood Library,No,2143
+P0877,Youth Activity,1/31/2025,80,Youth,5,770,Willow Park Community Center,No,1414
+P0140,Civic Light Opera,2/1/2025,127,Adult,4.3,4962,Maplewood Performing Arts Center,No,6830
+P0115,Youth Activity,2/1/2025,69,Youth,4.5,932,Oakleaf Community Center,No,1803
+P0918,Civic Light Opera,2/1/2025,133,Senior,4.3,4910,Maplewood Performing Arts Center,No,5981
+P0380,Library Workshop,2/1/2025,132,Youth,4.6,1317,Hazel Branch Library,No,2215
+P0360,Youth Activity,2/1/2025,91,Youth,4.4,880,Oakleaf Community Center,Yes,1034
+P0583,Theatre Event,2/2/2025,117,Adult,4,3374,Starlight Theatre,No,6180
+P0032,Library Workshop,2/3/2025,140,Youth,4.9,1690,Hazel Branch Library,No,2720
+P0953,Library Workshop,2/3/2025,103,Youth,4.3,1032,Hazel Branch Library,No,2557
+P0661,Theatre Event,2/4/2025,180,Adult,3.7,2540,Starlight Theatre,No,7830
+P0552,Senior Service,2/4/2025,24,Senior,4.6,309,Silver Elm Senior Center,Yes,957
+P0269,Theatre Event,2/4/2025,194,Adult,3.7,2709,Maplewood Performing Arts Center,Yes,5360
+P0934,Theatre Event,2/5/2025,113,Adult,3.1,3968,Maplewood Performing Arts Center,No,5849
+P0495,Theatre Event,2/5/2025,172,Adult,3.9,2751,Starlight Theatre,No,7028
+P0832,Theatre Event,2/5/2025,163,Adult,3.9,3441,Maplewood Performing Arts Center,No,4127
+P0689,Senior Service,2/6/2025,19,Senior,4.5,476,Silver Elm Senior Center,No,881
+P0579,Theatre Event,2/6/2025,117,Adult,4.1,2712,Starlight Theatre,No,5278
+P0509,Civic Light Opera,2/7/2025,98,Adult,3.5,4774,Maplewood Performing Arts Center,No,8381
+P0093,Senior Service,2/7/2025,20,Senior,4.3,531,Silver Elm Senior Center,Yes,1366
+P0993,Library Workshop,2/8/2025,145,Youth,5,1435,Hazel Branch Library,No,2411
+P0532,Civic Light Opera,2/8/2025,115,Adult,4.4,4072,Maplewood Performing Arts Center,No,6332
+P0557,Library Workshop,2/8/2025,127,Adult,4.9,1803,Elmwood Library,No,3289
+P0823,Theatre Event,2/9/2025,181,Adult,3.3,3988,Maplewood Performing Arts Center,No,5415
+P0844,Civic Light Opera,2/9/2025,118,Adult,4,4876,Maplewood Performing Arts Center,No,6419
+P0087,Youth Activity,2/9/2025,69,Youth,4.1,877,Oakleaf Community Center,Yes,1922
+P0788,Theatre Event,2/9/2025,80,Adult,4.5,2234,Starlight Theatre,Yes,4509
+P0730,Library Workshop,2/9/2025,131,Youth,4.3,1756,Elmwood Library,No,2432
+P0171,Youth Activity,2/10/2025,95,Youth,3.7,709,Willow Park Community Center,No,1608
+P0452,Youth Activity,2/10/2025,56,Youth,5,819,Oakleaf Community Center,No,1497
+P0399,Senior Service,2/10/2025,28,Senior,5,714,Silver Elm Senior Center,No,694
+P0250,Senior Service,2/10/2025,45,Senior,4.1,406,Silver Elm Senior Center,Yes,687
+P0046,Youth Activity,2/10/2025,72,Youth,3.9,868,Oakleaf Community Center,No,1136
+P0897,Library Workshop,2/10/2025,139,Adult,4.2,1577,Hazel Branch Library,No,3555
+P0281,Senior Service,2/11/2025,15,Senior,5,625,Silver Elm Senior Center,Yes,607
+P0497,Youth Activity,2/11/2025,78,Youth,4.3,892,Oakleaf Community Center,No,1421
+P0923,Senior Service,2/11/2025,25,Senior,4.3,744,Silver Elm Senior Center,No,925
+P0155,Civic Light Opera,2/11/2025,92,Adult,3.4,3642,Maplewood Performing Arts Center,Yes,7761
+P0709,Library Workshop,2/11/2025,102,Adult,3.7,1598,Elmwood Library,Yes,2832
+P0194,Youth Activity,2/12/2025,81,Youth,4.5,681,Willow Park Community Center,No,1334
+P0363,Theatre Event,2/12/2025,98,Adult,4.1,3205,Maplewood Performing Arts Center,Yes,5664
+P0644,Theatre Event,2/12/2025,144,Adult,3.4,2535,Starlight Theatre,No,7618
+P0569,Civic Light Opera,2/13/2025,109,Adult,3.3,3806,Maplewood Performing Arts Center,No,6687
+P0819,Library Workshop,2/13/2025,102,Youth,3.8,1443,Hazel Branch Library,Yes,2912
+P0044,Civic Light Opera,2/13/2025,142,Adult,3.2,3652,Maplewood Performing Arts Center,Yes,7591
+P0732,Senior Service,2/13/2025,34,Senior,4.9,457,Silver Elm Senior Center,No,1386
+P0246,Civic Light Opera,2/13/2025,123,Adult,3.7,4148,Maplewood Performing Arts Center,No,9713
+P0060,Theatre Event,2/14/2025,127,Adult,4.6,3456,Starlight Theatre,No,7388
+P0173,Theatre Event,2/15/2025,117,Adult,4,2471,Starlight Theatre,Yes,6796
+P0364,Theatre Event,2/15/2025,121,Adult,4.5,3938,Starlight Theatre,No,5871
+P0183,Civic Light Opera,2/16/2025,84,Adult,4,4160,Maplewood Performing Arts Center,Yes,9059
+P0175,Youth Activity,2/16/2025,93,Youth,4.9,947,Oakleaf Community Center,Yes,1210
+P0550,Senior Service,2/16/2025,18,Senior,5,333,Silver Elm Senior Center,Yes,1305
+P0959,Library Workshop,2/17/2025,120,Adult,3.4,1110,Elmwood Library,Yes,2075
+P0784,Theatre Event,2/17/2025,127,Adult,2.2,2769,Starlight Theatre,No,7845
+P0787,Youth Activity,2/17/2025,86,Youth,4.5,736,Willow Park Community Center,No,1154
+P0883,Library Workshop,2/17/2025,134,Adult,4.3,1894,Hazel Branch Library,Yes,3427
+P0299,Youth Activity,2/17/2025,53,Youth,4.6,772,Oakleaf Community Center,Yes,1749
+P0429,Theatre Event,2/18/2025,154,Adult,3.8,2424,Maplewood Performing Arts Center,No,5984
+P0226,Library Workshop,2/18/2025,107,Youth,3.7,1638,Elmwood Library,No,3357
+P0707,Theatre Event,2/19/2025,81,Adult,3.6,3564,Starlight Theatre,Yes,5357
+P0578,Civic Light Opera,2/19/2025,123,Adult,4.2,4685,Maplewood Performing Arts Center,No,6425
+P0929,Youth Activity,2/19/2025,52,Youth,4.1,981,Willow Park Community Center,No,1296
+P0683,Library Workshop,2/19/2025,108,Youth,3.7,1541,Elmwood Library,Yes,2824
+P0957,Theatre Event,2/19/2025,115,Adult,4.9,2578,Maplewood Performing Arts Center,No,5510
+P0316,Youth Activity,2/20/2025,76,Youth,3.4,529,Willow Park Community Center,Yes,1032
+P0825,Theatre Event,2/20/2025,165,Adult,3.3,3656,Maplewood Performing Arts Center,No,4603
+P0517,Theatre Event,2/21/2025,131,Adult,3.2,3201,Maplewood Performing Arts Center,Yes,4759
+P0850,Youth Activity,2/21/2025,65,Youth,4.9,570,Willow Park Community Center,No,1978
+P0612,Senior Service,2/22/2025,34,Senior,5,579,Silver Elm Senior Center,Yes,788
+P0336,Library Workshop,2/22/2025,127,Youth,4.3,1314,Elmwood Library,No,3464
+P0710,Youth Activity,2/22/2025,60,Youth,3.8,782,Willow Park Community Center,Yes,1197
+P0092,Youth Activity,2/22/2025,71,Youth,3.8,662,Willow Park Community Center,No,1827
+P0235,Library Workshop,2/23/2025,112,Youth,4.5,1836,Elmwood Library,No,2803
+P0462,Youth Activity,2/23/2025,95,Youth,4.9,546,Willow Park Community Center,No,1264
+P0125,Library Workshop,2/24/2025,60,Adult,3.6,1762,Elmwood Library,No,3381
+P0219,Youth Activity,2/24/2025,43,Youth,4.1,915,Willow Park Community Center,No,1453
+P0836,Theatre Event,2/24/2025,179,Adult,3.7,2356,Maplewood Performing Arts Center,No,4871
+P0862,Theatre Event,2/24/2025,98,Adult,3.7,2352,Maplewood Performing Arts Center,Yes,4597
+P0996,Library Workshop,2/25/2025,133,Adult,4.9,1537,Hazel Branch Library,No,3660
+P0006,Library Workshop,2/25/2025,99,Youth,4.7,1018,Hazel Branch Library,No,3914
+P0460,Library Workshop,2/25/2025,67,Adult,4.3,1723,Hazel Branch Library,No,3105
+P0385,Youth Activity,2/25/2025,81,Youth,4.7,506,Willow Park Community Center,No,1545
+P0464,Youth Activity,2/25/2025,91,Youth,3.7,525,Oakleaf Community Center,No,1153
+P0148,Theatre Event,2/25/2025,148,Adult,4.2,3725,Maplewood Performing Arts Center,No,5150
+P0329,Theatre Event,2/25/2025,163,Adult,3.7,2450,Starlight Theatre,No,7926
+P0785,Library Workshop,2/26/2025,89,Adult,4.3,1366,Elmwood Library,No,2224
+P0618,Library Workshop,2/26/2025,107,Youth,4.1,1992,Hazel Branch Library,Yes,2734
+P0807,Civic Light Opera,2/26/2025,134,Adult,5,4125,Maplewood Performing Arts Center,No,9379
+P0811,Civic Light Opera,2/26/2025,133,Adult,3.8,3598,Maplewood Performing Arts Center,Yes,9070
+P0405,Theatre Event,2/27/2025,141,Adult,3.9,3372,Maplewood Performing Arts Center,No,6549
+P0633,Theatre Event,2/28/2025,89,Adult,3,3107,Starlight Theatre,Yes,4548
+P0434,Library Workshop,2/28/2025,140,Adult,4.9,1527,Elmwood Library,Yes,2060
+P0567,Theatre Event,2/28/2025,161,Adult,4,3104,Maplewood Performing Arts Center,Yes,6471
+P0496,Theatre Event,3/1/2025,165,Adult,2.3,3684,Starlight Theatre,No,4477
+P0476,Civic Light Opera,3/1/2025,107,Adult,4.4,4245,Maplewood Performing Arts Center,No,6480
+P0616,Civic Light Opera,3/1/2025,98,Senior,4.2,3848,Maplewood Performing Arts Center,Yes,9277
+P0443,Theatre Event,3/2/2025,188,Adult,3.8,3913,Starlight Theatre,No,4598
+P0440,Library Workshop,3/3/2025,81,Youth,3.8,1128,Elmwood Library,Yes,2500
+P0458,Theatre Event,3/4/2025,196,Adult,3.8,2817,Maplewood Performing Arts Center,No,4167
+P0143,Theatre Event,3/4/2025,133,Adult,4,3816,Maplewood Performing Arts Center,No,7258
+P0935,Library Workshop,3/4/2025,91,Adult,3.3,1252,Elmwood Library,No,3755
+P0338,Youth Activity,3/5/2025,79,Youth,5,979,Oakleaf Community Center,No,1480
+P0218,Youth Activity,3/5/2025,50,Youth,4.7,798,Willow Park Community Center,Yes,1387
+P0794,Youth Activity,3/5/2025,83,Youth,4,882,Oakleaf Community Center,Yes,1686
+P0538,Library Workshop,3/5/2025,139,Youth,4.7,1293,Hazel Branch Library,Yes,3155
+P0154,Theatre Event,3/5/2025,109,Adult,4.7,2870,Maplewood Performing Arts Center,No,4497
+P0078,Library Workshop,3/5/2025,141,Youth,5,1441,Hazel Branch Library,No,2726
+P0135,Civic Light Opera,3/6/2025,135,Adult,3.7,4029,Maplewood Performing Arts Center,No,8442
+P0207,Library Workshop,3/6/2025,66,Adult,4.2,1163,Elmwood Library,Yes,2825
+P0450,Library Workshop,3/6/2025,112,Adult,5,1818,Hazel Branch Library,No,2055
+P0255,Library Workshop,3/7/2025,75,Youth,4.5,1736,Hazel Branch Library,No,3384
+P0457,Library Workshop,3/8/2025,106,Youth,3.7,1648,Elmwood Library,No,3296
+P0881,Library Workshop,3/8/2025,133,Youth,3.8,1809,Hazel Branch Library,No,3088
+P0187,Senior Service,3/8/2025,43,Senior,4.8,301,Silver Elm Senior Center,No,1048
+P0777,Library Workshop,3/8/2025,69,Youth,3.7,1470,Hazel Branch Library,Yes,3724
+P0294,Theatre Event,3/8/2025,122,Adult,3.2,3586,Maplewood Performing Arts Center,No,4045
+P0626,Theatre Event,3/9/2025,181,Adult,3.6,2254,Starlight Theatre,No,5607
+P0725,Youth Activity,3/9/2025,63,Youth,4.4,987,Willow Park Community Center,No,1383
+P0007,Library Workshop,3/9/2025,115,Youth,4.3,1083,Hazel Branch Library,No,3614
+P0718,Civic Light Opera,3/10/2025,81,Senior,4,4549,Maplewood Performing Arts Center,No,5453
+P0271,Senior Service,3/10/2025,31,Senior,4.5,671,Silver Elm Senior Center,Yes,1454
+P0215,Youth Activity,3/10/2025,44,Youth,4.2,592,Willow Park Community Center,No,1287
+P0680,Senior Service,3/10/2025,26,Senior,4.6,796,Silver Elm Senior Center,No,1083
+P0591,Library Workshop,3/10/2025,132,Youth,3.7,1722,Elmwood Library,No,3509
+P0447,Civic Light Opera,3/10/2025,137,Adult,3.4,4017,Maplewood Performing Arts Center,Yes,8174
+P0921,Senior Service,3/11/2025,22,Senior,5,345,Silver Elm Senior Center,No,924
+P0488,Library Workshop,3/11/2025,83,Youth,3.7,1633,Elmwood Library,No,2962
+P0587,Library Workshop,3/11/2025,83,Youth,5,1893,Elmwood Library,Yes,3806
+P0153,Library Workshop,3/11/2025,108,Youth,4.6,1757,Elmwood Library,No,2912
+P0036,Senior Service,3/11/2025,29,Senior,4.4,391,Silver Elm Senior Center,No,1129
+P0109,Library Workshop,3/11/2025,103,Youth,5,1510,Hazel Branch Library,Yes,3205
+P0021,Youth Activity,3/11/2025,64,Youth,4.5,800,Willow Park Community Center,No,1816
+P0282,Theatre Event,3/13/2025,108,Adult,3.2,3135,Starlight Theatre,No,6178
+P0015,Library Workshop,3/14/2025,88,Youth,5,1402,Hazel Branch Library,No,2366
+P0438,Senior Service,3/14/2025,21,Senior,4.3,395,Silver Elm Senior Center,No,1258
+P0300,Library Workshop,3/15/2025,79,Adult,3.7,1684,Elmwood Library,No,3240
+P0944,Senior Service,3/15/2025,27,Senior,4.7,741,Silver Elm Senior Center,No,1139
+P0190,Library Workshop,3/15/2025,113,Adult,4,1437,Elmwood Library,No,2605
+P0650,Theatre Event,3/15/2025,111,Adult,2.9,3051,Maplewood Performing Arts Center,No,7259
+P0151,Civic Light Opera,3/15/2025,133,Adult,3.3,4581,Maplewood Performing Arts Center,No,9204
+P0400,Senior Service,3/15/2025,31,Senior,5,679,Silver Elm Senior Center,No,623
+P0305,Youth Activity,3/16/2025,91,Youth,4.1,687,Oakleaf Community Center,No,1912
+P0541,Civic Light Opera,3/16/2025,122,Adult,4.1,4603,Maplewood Performing Arts Center,No,8438
+P0307,Theatre Event,3/17/2025,80,Adult,3.7,2188,Maplewood Performing Arts Center,Yes,7836
+P0797,Civic Light Opera,3/18/2025,85,Adult,5,4324,Maplewood Performing Arts Center,Yes,6415
+P0533,Civic Light Opera,3/18/2025,97,Senior,5,3725,Maplewood Performing Arts Center,Yes,9200
+P0367,Civic Light Opera,3/18/2025,97,Adult,4.6,3514,Maplewood Performing Arts Center,Yes,5515
+P0512,Theatre Event,3/19/2025,82,Adult,3.9,2089,Maplewood Performing Arts Center,No,6745
+P0332,Senior Service,3/19/2025,15,Senior,4.9,565,Silver Elm Senior Center,Yes,1090
+P0590,Library Workshop,3/19/2025,53,Youth,3.6,1599,Elmwood Library,No,3669
+P0916,Theatre Event,3/20/2025,156,Adult,4.1,2314,Starlight Theatre,No,6757
+P0354,Library Workshop,3/21/2025,96,Youth,3.7,1681,Elmwood Library,No,3455
+P0038,Library Workshop,3/21/2025,135,Youth,4.2,1572,Elmwood Library,Yes,2087
+P0595,Senior Service,3/21/2025,27,Senior,5,531,Silver Elm Senior Center,Yes,840
+P0131,Theatre Event,3/21/2025,143,Adult,3.5,2030,Starlight Theatre,Yes,6011
+P0889,Library Workshop,3/22/2025,125,Adult,4.3,1415,Hazel Branch Library,No,2384
+P0870,Civic Light Opera,3/22/2025,106,Senior,4.1,4248,Maplewood Performing Arts Center,No,5804
+P0987,Youth Activity,3/22/2025,55,Youth,4.4,997,Willow Park Community Center,Yes,1838
+P0344,Theatre Event,3/22/2025,130,Adult,3.8,2938,Maplewood Performing Arts Center,No,7734
+P0990,Senior Service,3/23/2025,27,Senior,4.8,485,Silver Elm Senior Center,No,730
+P0860,Library Workshop,3/23/2025,149,Adult,3.2,1045,Hazel Branch Library,Yes,3807
+P0620,Youth Activity,3/23/2025,70,Youth,4.9,911,Willow Park Community Center,No,1280
+P0896,Library Workshop,3/24/2025,86,Adult,4.6,1164,Elmwood Library,No,2191
+P0004,Youth Activity,3/24/2025,44,Youth,4.2,782,Oakleaf Community Center,Yes,1901
+P0875,Library Workshop,3/24/2025,88,Youth,4.3,1140,Elmwood Library,No,2313
+P0365,Civic Light Opera,3/24/2025,134,Adult,5,3520,Maplewood Performing Arts Center,No,6514
+P0318,Library Workshop,3/24/2025,93,Youth,4,1258,Elmwood Library,No,3745
+P0742,Theatre Event,3/25/2025,171,Adult,2.8,2436,Starlight Theatre,Yes,4258
+P0954,Civic Light Opera,3/25/2025,136,Adult,5,4578,Maplewood Performing Arts Center,No,5060
+P0802,Library Workshop,3/26/2025,61,Youth,3.7,1844,Hazel Branch Library,No,3893
+P0066,Theatre Event,3/26/2025,120,Adult,4.3,2498,Starlight Theatre,No,6677
+P0767,Senior Service,3/26/2025,38,Senior,5,589,Silver Elm Senior Center,No,1279
+P0792,Youth Activity,3/26/2025,82,Youth,4.8,662,Willow Park Community Center,No,1037
+P0472,Civic Light Opera,3/26/2025,112,Senior,3.9,3800,Maplewood Performing Arts Center,No,5723
+P0573,Theatre Event,3/26/2025,111,Adult,4.7,2919,Starlight Theatre,No,4418
+P0404,Senior Service,3/26/2025,27,Senior,4.8,300,Silver Elm Senior Center,No,1145
+P0164,Theatre Event,3/28/2025,194,Adult,4.2,2821,Starlight Theatre,No,5968
+P0345,Theatre Event,3/28/2025,135,Adult,3.4,2438,Starlight Theatre,No,5979
+P0905,Theatre Event,3/29/2025,139,Adult,3.5,2168,Maplewood Performing Arts Center,No,5465
+P0199,Senior Service,3/30/2025,41,Senior,4.5,462,Silver Elm Senior Center,No,659
+P0834,Library Workshop,3/30/2025,108,Youth,3.9,1176,Hazel Branch Library,Yes,3695
+P0156,Library Workshop,3/31/2025,144,Youth,4.5,1383,Elmwood Library,Yes,2416
+P0995,Theatre Event,3/31/2025,158,Adult,3.8,2782,Maplewood Performing Arts Center,Yes,6632
+P0646,Senior Service,4/1/2025,15,Senior,4.9,634,Silver Elm Senior Center,No,1329
+P0857,Library Workshop,4/1/2025,66,Youth,4.4,1900,Elmwood Library,Yes,3029
+P0631,Youth Activity,4/2/2025,46,Youth,4.3,748,Willow Park Community Center,No,1776
+P0108,Senior Service,4/2/2025,32,Senior,5,454,Silver Elm Senior Center,No,1166
+P0749,Civic Light Opera,4/3/2025,111,Adult,2.5,4415,Maplewood Performing Arts Center,No,8538
+P0201,Youth Activity,4/3/2025,97,Youth,4.5,525,Willow Park Community Center,No,1985
+P0179,Civic Light Opera,4/4/2025,127,Adult,3.6,4169,Maplewood Performing Arts Center,No,8970
+P0245,Library Workshop,4/4/2025,99,Youth,4.4,1676,Elmwood Library,No,3859
+P0478,Youth Activity,4/4/2025,98,Youth,4.6,545,Willow Park Community Center,No,1267
+P0884,Library Workshop,4/4/2025,131,Adult,4.4,1381,Elmwood Library,Yes,3293
+P0903,Library Workshop,4/4/2025,113,Youth,4.8,1886,Hazel Branch Library,Yes,3032
+P0690,Library Workshop,4/5/2025,54,Youth,4.1,1268,Elmwood Library,No,3642
+P0991,Senior Service,4/5/2025,49,Senior,4.8,479,Silver Elm Senior Center,Yes,1401
+P0510,Youth Activity,4/5/2025,55,Youth,4.1,820,Oakleaf Community Center,No,1545
+P0812,Senior Service,4/5/2025,21,Senior,4.7,721,Silver Elm Senior Center,No,1079
+P0063,Senior Service,4/6/2025,15,Senior,4.7,506,Silver Elm Senior Center,No,1140
+P0057,Library Workshop,4/6/2025,77,Youth,4.2,1288,Elmwood Library,No,2018
+P0818,Theatre Event,4/6/2025,199,Adult,4.6,3527,Starlight Theatre,Yes,5573
+P0206,Library Workshop,4/7/2025,81,Adult,4.3,1043,Hazel Branch Library,No,3340
+P0243,Civic Light Opera,4/7/2025,131,Senior,3.5,4081,Maplewood Performing Arts Center,No,8406
+P0743,Youth Activity,4/7/2025,59,Youth,4.1,756,Willow Park Community Center,Yes,1812
+P0824,Theatre Event,4/8/2025,168,Adult,3.9,2095,Starlight Theatre,Yes,6803
+P0387,Library Workshop,4/8/2025,67,Adult,3.6,1848,Hazel Branch Library,No,2330
+P0806,Youth Activity,4/8/2025,87,Youth,4.4,589,Willow Park Community Center,No,1232
+P0861,Senior Service,4/9/2025,34,Senior,4.9,686,Silver Elm Senior Center,No,1072
+P0242,Civic Light Opera,4/9/2025,92,Adult,4.6,3720,Maplewood Performing Arts Center,Yes,7581
+P0099,Library Workshop,4/10/2025,103,Youth,4.7,1802,Elmwood Library,No,3438
+P0273,Senior Service,4/10/2025,47,Senior,4.4,489,Silver Elm Senior Center,No,1582
+P0177,Youth Activity,4/10/2025,88,Youth,4,661,Willow Park Community Center,Yes,1433
+P0713,Theatre Event,4/11/2025,164,Adult,3.9,2672,Starlight Theatre,No,7245
+P0563,Library Workshop,4/11/2025,104,Youth,5,1197,Elmwood Library,Yes,2972
+P0470,Civic Light Opera,4/11/2025,95,Adult,4.5,4680,Maplewood Performing Arts Center,No,9582
+P0649,Senior Service,4/11/2025,21,Senior,4.8,416,Silver Elm Senior Center,No,1275
+P0900,Library Workshop,4/12/2025,137,Adult,3.6,1544,Hazel Branch Library,Yes,3224
+P0772,Senior Service,4/12/2025,41,Senior,4.5,399,Silver Elm Senior Center,Yes,860
+P0960,Youth Activity,4/12/2025,69,Youth,3.9,519,Oakleaf Community Center,No,1328
+P0943,Youth Activity,4/12/2025,52,Youth,3.9,587,Willow Park Community Center,Yes,1076
+P0775,Senior Service,4/13/2025,42,Senior,4.7,529,Silver Elm Senior Center,No,1267
+P0081,Senior Service,4/13/2025,25,Senior,4.4,358,Silver Elm Senior Center,Yes,1424
+P0328,Youth Activity,4/14/2025,58,Youth,4.3,566,Oakleaf Community Center,Yes,1121
+P0042,Theatre Event,4/14/2025,163,Adult,3.2,3618,Starlight Theatre,No,4068
+P0945,Library Workshop,4/14/2025,115,Youth,4.7,1736,Elmwood Library,No,3391
+P0675,Theatre Event,4/14/2025,197,Adult,4.2,2977,Starlight Theatre,No,5604
+P0251,Library Workshop,4/16/2025,50,Youth,4.3,1878,Hazel Branch Library,Yes,2606
+P0214,Library Workshop,4/16/2025,88,Adult,3.9,1170,Hazel Branch Library,No,2662
+P0925,Theatre Event,4/16/2025,190,Adult,4.5,3437,Maplewood Performing Arts Center,No,5098
+P0634,Theatre Event,4/16/2025,165,Adult,4,2838,Maplewood Performing Arts Center,Yes,7815
+P0829,Youth Activity,4/17/2025,50,Youth,4,622,Willow Park Community Center,No,1033
+P0054,Senior Service,4/17/2025,24,Senior,4.5,794,Silver Elm Senior Center,No,714
+P0479,Civic Light Opera,4/17/2025,119,Senior,4,4173,Maplewood Performing Arts Center,Yes,8627
+P0147,Youth Activity,4/17/2025,53,Youth,4.3,814,Willow Park Community Center,No,1254
+P0262,Civic Light Opera,4/17/2025,107,Adult,4,4370,Maplewood Performing Arts Center,No,5279
+P0295,Library Workshop,4/18/2025,102,Youth,3.7,1629,Hazel Branch Library,Yes,3503
+P0608,Theatre Event,4/18/2025,116,Adult,4.3,3501,Starlight Theatre,Yes,4831
+P0893,Senior Service,4/18/2025,33,Senior,4.9,751,Silver Elm Senior Center,No,1504
+P0756,Senior Service,4/18/2025,32,Senior,4.5,738,Silver Elm Senior Center,Yes,1161
+P0308,Theatre Event,4/18/2025,103,Adult,3.6,2291,Maplewood Performing Arts Center,No,5658
+P0982,Senior Service,4/19/2025,24,Senior,4.9,309,Silver Elm Senior Center,Yes,1095
+P0529,Library Workshop,4/19/2025,121,Adult,3.8,1220,Elmwood Library,Yes,2306
+P0674,Theatre Event,4/20/2025,134,Adult,4.9,2470,Starlight Theatre,Yes,5468
+P0547,Library Workshop,4/20/2025,65,Youth,4.1,1332,Hazel Branch Library,Yes,2044
+P0408,Library Workshop,4/20/2025,130,Youth,4.2,1600,Elmwood Library,Yes,3116
+P0936,Library Workshop,4/20/2025,57,Adult,5,1962,Hazel Branch Library,Yes,2853
+P0005,Library Workshop,4/20/2025,146,Youth,4.3,1887,Hazel Branch Library,Yes,3341
+P0477,Library Workshop,4/21/2025,136,Youth,4.7,1379,Hazel Branch Library,Yes,3299
+P0124,Library Workshop,4/21/2025,98,Adult,4,1809,Hazel Branch Library,No,3938
+P0511,Youth Activity,4/22/2025,92,Youth,3.9,681,Oakleaf Community Center,Yes,1796
+P0835,Theatre Event,4/22/2025,89,Adult,4.6,2488,Maplewood Performing Arts Center,No,7361
+P0729,Library Workshop,4/23/2025,67,Adult,3.7,1527,Elmwood Library,Yes,2473
+P0111,Library Workshop,4/23/2025,114,Youth,4,1942,Elmwood Library,Yes,2429
+P0310,Library Workshop,4/23/2025,78,Youth,4.3,1558,Hazel Branch Library,No,3054
+P0481,Youth Activity,4/24/2025,61,Youth,3.8,987,Oakleaf Community Center,Yes,1559
+P0670,Library Workshop,4/24/2025,54,Youth,4.2,1926,Elmwood Library,No,2233
+P0314,Civic Light Opera,4/24/2025,137,Senior,4.4,4613,Maplewood Performing Arts Center,No,8820
+P0871,Theatre Event,4/24/2025,85,Adult,4,2872,Starlight Theatre,No,7196
+P0166,Senior Service,4/24/2025,42,Senior,4.3,572,Silver Elm Senior Center,No,605
+P0852,Youth Activity,4/24/2025,96,Youth,4.3,664,Oakleaf Community Center,Yes,1797
+P0553,Youth Activity,4/25/2025,66,Youth,4.5,730,Willow Park Community Center,No,1029
+P0565,Theatre Event,4/26/2025,199,Adult,3.8,3040,Starlight Theatre,No,4257
+P0684,Youth Activity,4/26/2025,86,Youth,4.2,828,Oakleaf Community Center,No,1487
+P0648,Youth Activity,4/27/2025,87,Youth,4.3,578,Oakleaf Community Center,No,1894
+P0141,Civic Light Opera,4/27/2025,147,Adult,4.5,4376,Maplewood Performing Arts Center,No,5848
+P0938,Civic Light Opera,4/27/2025,90,Senior,4.6,4576,Maplewood Performing Arts Center,No,8758
+P0161,Theatre Event,4/27/2025,141,Adult,3.9,2862,Maplewood Performing Arts Center,No,6463
+P0030,Library Workshop,4/28/2025,131,Adult,5,1274,Elmwood Library,No,2318
+P0396,Civic Light Opera,4/28/2025,112,Adult,4.5,3664,Maplewood Performing Arts Center,No,5382
+P0741,Theatre Event,4/28/2025,111,Adult,3.6,2403,Maplewood Performing Arts Center,No,5672
+P0167,Theatre Event,4/29/2025,98,Adult,3.4,3573,Maplewood Performing Arts Center,No,7442
+P0972,Civic Light Opera,4/29/2025,137,Adult,4,4730,Maplewood Performing Arts Center,Yes,9953
+P0152,Library Workshop,5/1/2025,72,Youth,4.3,1775,Hazel Branch Library,Yes,3134
+P0963,Library Workshop,5/2/2025,130,Youth,4.4,1620,Elmwood Library,No,3323
+P0559,Senior Service,5/2/2025,35,Senior,5,304,Silver Elm Senior Center,Yes,1231
+P0448,Senior Service,5/2/2025,24,Senior,4.4,370,Silver Elm Senior Center,Yes,689
+P0780,Youth Activity,5/3/2025,64,Youth,4.4,871,Oakleaf Community Center,Yes,1792
+P0980,Youth Activity,5/3/2025,70,Youth,4.5,927,Oakleaf Community Center,No,1228
+P0874,Theatre Event,5/3/2025,155,Adult,3.2,3957,Maplewood Performing Arts Center,No,7241
+P0859,Youth Activity,5/3/2025,94,Youth,5,967,Oakleaf Community Center,Yes,1055
+P0642,Theatre Event,5/3/2025,80,Adult,4.3,2116,Starlight Theatre,Yes,7549
+P0407,Theatre Event,5/4/2025,143,Adult,3.1,2391,Starlight Theatre,No,6433
+P0028,Theatre Event,5/4/2025,119,Adult,3.4,2202,Starlight Theatre,No,7010
+P0244,Theatre Event,5/4/2025,136,Adult,3.3,2147,Maplewood Performing Arts Center,No,4387
+P0762,Theatre Event,5/4/2025,194,Adult,4,3442,Starlight Theatre,Yes,5681
+P0854,Senior Service,5/5/2025,25,Senior,5,780,Silver Elm Senior Center,No,1048
+P0666,Library Workshop,5/6/2025,128,Youth,3.7,1081,Elmwood Library,Yes,3968
+P0137,Theatre Event,5/6/2025,94,Adult,4.7,2039,Starlight Theatre,Yes,7802
+P0008,Senior Service,5/6/2025,37,Senior,4.7,313,Silver Elm Senior Center,No,814
+P0149,Library Workshop,5/6/2025,90,Youth,5,1382,Elmwood Library,No,2524
+P0373,Library Workshop,5/7/2025,123,Adult,4.2,1757,Elmwood Library,No,2790
+P0027,Library Workshop,5/10/2025,101,Youth,3.8,1068,Elmwood Library,No,2801
+P0272,Senior Service,5/10/2025,28,Senior,4.8,634,Silver Elm Senior Center,No,642
+P0123,Theatre Event,5/10/2025,196,Adult,3.7,3766,Starlight Theatre,No,7339
+P0686,Youth Activity,5/10/2025,58,Youth,4.5,883,Oakleaf Community Center,Yes,1412
+P0853,Library Workshop,5/10/2025,120,Adult,4.7,1773,Elmwood Library,Yes,2091
+P0574,Youth Activity,5/11/2025,61,Youth,4.3,782,Oakleaf Community Center,No,1075
+P0500,Civic Light Opera,5/11/2025,136,Adult,4.2,4300,Maplewood Performing Arts Center,No,7779
+P0237,Library Workshop,5/11/2025,79,Youth,4.8,1179,Elmwood Library,No,3316
+P0351,Theatre Event,5/12/2025,122,Adult,4.2,3612,Maplewood Performing Arts Center,No,5878
+P0150,Library Workshop,5/12/2025,94,Adult,5,1625,Elmwood Library,No,2499
+P0430,Library Workshop,5/12/2025,80,Youth,4.7,1401,Elmwood Library,No,2272
+P0673,Library Workshop,5/12/2025,51,Adult,3.6,1140,Hazel Branch Library,No,2674
+P0453,Theatre Event,5/13/2025,137,Adult,3.6,3238,Starlight Theatre,No,7583
+P0376,Theatre Event,5/13/2025,99,Adult,3.6,2747,Starlight Theatre,Yes,4492
+P0343,Library Workshop,5/13/2025,104,Adult,4.2,1427,Elmwood Library,Yes,2704
+P0469,Library Workshop,5/13/2025,149,Adult,4,1560,Elmwood Library,No,3141
+P0049,Theatre Event,5/13/2025,159,Adult,3.6,2725,Starlight Theatre,No,7310
+P0410,Library Workshop,5/13/2025,92,Youth,4,1441,Elmwood Library,No,3155
+P0445,Senior Service,5/13/2025,40,Senior,4.9,712,Silver Elm Senior Center,No,1145
+P0241,Civic Light Opera,5/13/2025,95,Adult,4.2,3970,Maplewood Performing Arts Center,No,7081
+P0196,Theatre Event,5/14/2025,92,Adult,4.1,2656,Maplewood Performing Arts Center,No,4495
+P0882,Youth Activity,5/14/2025,73,Youth,3.9,875,Oakleaf Community Center,No,1897
+P0159,Library Workshop,5/14/2025,81,Youth,3.9,1952,Elmwood Library,No,3690
+P0356,Youth Activity,5/14/2025,79,Youth,4.1,611,Oakleaf Community Center,Yes,1176
+P0979,Theatre Event,5/14/2025,138,Adult,3.8,3663,Maplewood Performing Arts Center,No,7088
+P0306,Civic Light Opera,5/14/2025,83,Adult,3.7,4229,Maplewood Performing Arts Center,No,6283
+P0323,Youth Activity,5/14/2025,78,Youth,3.9,618,Oakleaf Community Center,No,1953
+P0003,Youth Activity,5/14/2025,55,Youth,4.2,511,Oakleaf Community Center,No,1330
+P0061,Theatre Event,5/15/2025,108,Adult,4,2016,Starlight Theatre,Yes,5348
+P0051,Civic Light Opera,5/15/2025,102,Adult,4.3,3984,Maplewood Performing Arts Center,No,5645
+P0118,Library Workshop,5/16/2025,130,Adult,4.3,1627,Elmwood Library,No,2941
+P0084,Library Workshop,5/16/2025,51,Youth,4.7,1370,Hazel Branch Library,No,2657
+P0473,Library Workshop,5/16/2025,112,Youth,3,1513,Elmwood Library,No,3309
+P0146,Library Workshop,5/16/2025,87,Adult,3.9,1071,Elmwood Library,No,2005
+P0672,Senior Service,5/16/2025,44,Senior,4.7,692,Silver Elm Senior Center,No,1521
+P0912,Library Workshop,5/16/2025,103,Youth,4.4,1332,Elmwood Library,Yes,2591
+P0158,Senior Service,5/17/2025,48,Senior,4.6,507,Silver Elm Senior Center,No,864
+P0611,Library Workshop,5/17/2025,77,Youth,3.6,1836,Hazel Branch Library,No,2180
+P0554,Youth Activity,5/18/2025,60,Youth,4.2,548,Oakleaf Community Center,No,1068
+P0103,Theatre Event,5/18/2025,108,Adult,3.6,2073,Starlight Theatre,Yes,7736
+P0849,Theatre Event,5/19/2025,87,Adult,3.9,3533,Starlight Theatre,No,4572
+P0736,Senior Service,5/19/2025,48,Senior,4.6,383,Silver Elm Senior Center,No,1520
+P0917,Library Workshop,5/19/2025,79,Youth,4.7,1129,Elmwood Library,No,3155
+P0045,Library Workshop,5/19/2025,104,Adult,3.6,1361,Elmwood Library,No,2847
+P0121,Senior Service,5/20/2025,23,Senior,4.8,418,Silver Elm Senior Center,No,1424
+P0773,Library Workshop,5/21/2025,146,Adult,4,1686,Elmwood Library,No,3316
+P0312,Library Workshop,5/22/2025,53,Youth,5,1277,Elmwood Library,No,2107
+P0231,Senior Service,5/22/2025,26,Senior,5,545,Silver Elm Senior Center,No,1241
+P0600,Library Workshop,5/22/2025,89,Youth,5,1639,Elmwood Library,Yes,2258
+P0786,Civic Light Opera,5/22/2025,134,Senior,4.2,3943,Maplewood Performing Arts Center,Yes,6888
+P0518,Senior Service,5/23/2025,21,Senior,4.8,339,Silver Elm Senior Center,No,1523
+P0560,Youth Activity,5/24/2025,60,Youth,4.4,517,Oakleaf Community Center,No,1056
+P0357,Library Workshop,5/24/2025,136,Youth,3.7,1057,Elmwood Library,No,2133
+P0782,Theatre Event,5/25/2025,147,Adult,4.2,3010,Starlight Theatre,No,4283
+P0368,Civic Light Opera,5/27/2025,142,Senior,3.8,4120,Maplewood Performing Arts Center,No,6411
+P0361,Theatre Event,5/29/2025,141,Adult,3,3968,Maplewood Performing Arts Center,Yes,4490
+P0019,Theatre Event,5/30/2025,108,Adult,5,3338,Maplewood Performing Arts Center,Yes,4559
+P0855,Library Workshop,5/31/2025,126,Youth,3.7,1717,Elmwood Library,Yes,2400
+P0663,Youth Activity,5/31/2025,81,Youth,4.7,568,Willow Park Community Center,Yes,1648
+P0249,Civic Light Opera,6/1/2025,89,Adult,4.4,3643,Maplewood Performing Arts Center,No,5015
+P0687,Youth Activity,6/1/2025,78,Youth,4.1,728,Willow Park Community Center,Yes,1366
+P0023,Library Workshop,6/2/2025,95,Youth,3.8,1506,Elmwood Library,No,3432
+P0016,Library Workshop,6/2/2025,115,Youth,3.9,1801,Hazel Branch Library,No,3157
+P0839,Youth Activity,6/3/2025,87,Youth,4.3,794,Oakleaf Community Center,No,1880
+P0104,Theatre Event,6/3/2025,99,Adult,4.7,3071,Maplewood Performing Arts Center,No,5943
+P0520,Library Workshop,6/3/2025,53,Youth,4.4,1025,Hazel Branch Library,No,3686
+P0635,Library Workshop,6/3/2025,142,Youth,4.2,1013,Hazel Branch Library,No,3528
+P0640,Theatre Event,6/3/2025,137,Adult,4.1,3349,Maplewood Performing Arts Center,No,4825
+P0668,Library Workshop,6/4/2025,107,Youth,4.3,1569,Elmwood Library,No,3336
+P0456,Theatre Event,6/4/2025,199,Adult,3,2608,Starlight Theatre,Yes,6276
+P0956,Theatre Event,6/5/2025,101,Adult,4.5,3154,Starlight Theatre,No,7853
+P0184,Senior Service,6/5/2025,49,Senior,4.6,513,Silver Elm Senior Center,No,1471
+P0420,Senior Service,6/5/2025,31,Senior,4.6,378,Silver Elm Senior Center,No,1257
+P0522,Theatre Event,6/6/2025,156,Adult,3.6,2662,Maplewood Performing Arts Center,Yes,4989
+P0416,Theatre Event,6/6/2025,83,Adult,3.9,2124,Starlight Theatre,No,5706
+P0302,Theatre Event,6/6/2025,143,Adult,4.7,3110,Starlight Theatre,No,7590
+P0866,Youth Activity,6/7/2025,87,Youth,3.8,690,Oakleaf Community Center,No,1155
+P0186,Youth Activity,6/7/2025,50,Youth,3.6,560,Willow Park Community Center,No,1889
+P0053,Civic Light Opera,6/7/2025,112,Adult,4.8,3998,Maplewood Performing Arts Center,Yes,9729
+P0656,Library Workshop,6/7/2025,93,Adult,3.8,1038,Elmwood Library,No,2601
+P0976,Library Workshop,6/8/2025,114,Youth,3.7,1574,Hazel Branch Library,Yes,3904
+P0091,Library Workshop,6/9/2025,125,Youth,4.1,1533,Elmwood Library,No,2404
+P0085,Theatre Event,6/9/2025,141,Adult,3.4,3829,Maplewood Performing Arts Center,No,4194
+P0224,Theatre Event,6/9/2025,148,Adult,3.4,3070,Starlight Theatre,Yes,5750
+P0013,Senior Service,6/9/2025,17,Senior,4.7,507,Silver Elm Senior Center,No,1113
+P0449,Theatre Event,6/9/2025,177,Adult,4.1,2955,Starlight Theatre,Yes,6121
+P0845,Library Workshop,6/9/2025,83,Adult,3.4,1908,Hazel Branch Library,No,3382
+P0025,Theatre Event,6/9/2025,152,Adult,4,3064,Starlight Theatre,No,6259
+P0080,Library Workshop,6/11/2025,135,Adult,4.7,1843,Elmwood Library,No,3292
+P0551,Theatre Event,6/12/2025,148,Adult,3.8,3320,Starlight Theatre,No,4452
+P0221,Youth Activity,6/12/2025,59,Youth,5,960,Willow Park Community Center,No,1514
+P0428,Senior Service,6/12/2025,44,Senior,4.3,776,Silver Elm Senior Center,No,1133
+P0513,Civic Light Opera,6/13/2025,81,Adult,3.9,4481,Maplewood Performing Arts Center,No,8019
+P0122,Senior Service,6/13/2025,22,Senior,4.9,506,Silver Elm Senior Center,No,1206
+P0774,Theatre Event,6/13/2025,177,Adult,3.2,3030,Maplewood Performing Arts Center,No,7163
+P0907,Senior Service,6/14/2025,29,Senior,4.4,384,Silver Elm Senior Center,No,627
+P0997,Civic Light Opera,6/14/2025,130,Senior,3.2,4776,Maplewood Performing Arts Center,Yes,9108
+P0801,Youth Activity,6/14/2025,78,Youth,4.3,617,Oakleaf Community Center,No,1797
+P0624,Theatre Event,6/14/2025,128,Adult,4.2,3518,Maplewood Performing Arts Center,No,4688
+P0757,Youth Activity,6/15/2025,53,Youth,5,982,Oakleaf Community Center,No,1875
+P0545,Youth Activity,6/16/2025,60,Youth,4.8,914,Oakleaf Community Center,Yes,1245
+P0181,Theatre Event,6/16/2025,141,Adult,3.2,3788,Starlight Theatre,No,4249
+P0699,Library Workshop,6/16/2025,101,Youth,4.3,1033,Elmwood Library,No,2130
+P0426,Theatre Event,6/17/2025,117,Adult,3.5,2839,Starlight Theatre,No,4240
+P0701,Theatre Event,6/17/2025,127,Adult,4.6,3233,Maplewood Performing Arts Center,No,5395
+P0102,Youth Activity,6/18/2025,49,Youth,5,838,Willow Park Community Center,No,1572
+P0828,Theatre Event,6/18/2025,157,Adult,4.4,2038,Starlight Theatre,Yes,4161
+P0816,Theatre Event,6/18/2025,102,Adult,2.7,3531,Maplewood Performing Arts Center,No,4880
+P0383,Youth Activity,6/18/2025,64,Youth,4.3,678,Oakleaf Community Center,No,1731
+P0198,Senior Service,6/18/2025,29,Senior,5,609,Silver Elm Senior Center,No,1108
+P0239,Youth Activity,6/18/2025,58,Youth,4.1,664,Willow Park Community Center,Yes,1284
+P0024,Theatre Event,6/19/2025,107,Adult,3.7,2366,Starlight Theatre,Yes,7676
+P0371,Library Workshop,6/19/2025,57,Adult,4,1989,Elmwood Library,No,3634
+P0389,Senior Service,6/19/2025,25,Senior,4.7,483,Silver Elm Senior Center,No,1470
+P0441,Library Workshop,6/19/2025,107,Youth,3.6,1278,Hazel Branch Library,No,2460
+P0197,Youth Activity,6/20/2025,53,Youth,4.5,513,Oakleaf Community Center,No,1444
+P0335,Library Workshop,6/20/2025,72,Adult,4.4,1529,Hazel Branch Library,Yes,3578
+P0682,Library Workshop,6/21/2025,149,Youth,4.1,1557,Hazel Branch Library,No,3716
+P0467,Library Workshop,6/21/2025,98,Youth,4.6,1665,Elmwood Library,No,3331
+P0325,Civic Light Opera,6/21/2025,132,Adult,4.3,4424,Maplewood Performing Arts Center,No,7170
+P0755,Library Workshop,6/21/2025,108,Adult,3.1,1122,Hazel Branch Library,No,3162
+P0831,Library Workshop,6/22/2025,111,Youth,3.9,1700,Elmwood Library,No,3957
+P0172,Library Workshop,6/23/2025,112,Adult,4,1471,Elmwood Library,Yes,2899
+P0229,Senior Service,6/24/2025,32,Senior,4.8,443,Silver Elm Senior Center,Yes,861
+P0865,Theatre Event,6/24/2025,157,Adult,3.3,3342,Starlight Theatre,No,4994
+P0062,Library Workshop,6/24/2025,75,Adult,4.2,1006,Hazel Branch Library,No,3126
+P0719,Library Workshop,6/24/2025,90,Youth,3.7,1012,Elmwood Library,No,3583
+P0012,Civic Light Opera,6/25/2025,120,Adult,3.5,4727,Maplewood Performing Arts Center,Yes,8654
+P0349,Theatre Event,6/25/2025,191,Adult,2.8,2084,Maplewood Performing Arts Center,No,6112
+P0075,Youth Activity,6/25/2025,99,Youth,4.4,700,Willow Park Community Center,No,1868
+P0278,Youth Activity,6/25/2025,50,Youth,4.2,922,Willow Park Community Center,No,1343
+P0585,Youth Activity,6/25/2025,51,Youth,5,962,Willow Park Community Center,No,1121
+P0425,Library Workshop,6/25/2025,139,Youth,4.5,1127,Hazel Branch Library,Yes,3434
+P0089,Senior Service,6/26/2025,29,Senior,4.7,674,Silver Elm Senior Center,No,1437
+P0592,Youth Activity,6/26/2025,43,Youth,4.7,651,Willow Park Community Center,No,1258
+P0639,Library Workshop,6/27/2025,115,Adult,3.6,1693,Elmwood Library,No,2005
+P0890,Library Workshop,6/27/2025,105,Adult,4.9,1105,Elmwood Library,No,2669
+P0617,Library Workshop,6/27/2025,100,Youth,4.9,1028,Hazel Branch Library,No,2096
+P0665,Library Workshop,6/27/2025,106,Youth,4,1389,Hazel Branch Library,No,2156
+P0210,Library Workshop,6/28/2025,52,Youth,3.9,1791,Hazel Branch Library,No,2158
+P0716,Civic Light Opera,6/28/2025,84,Senior,4.1,3840,Maplewood Performing Arts Center,Yes,7908
+P0728,Senior Service,6/28/2025,38,Senior,4.3,765,Silver Elm Senior Center,Yes,904
+P0105,Civic Light Opera,6/28/2025,90,Senior,4.2,4838,Maplewood Performing Arts Center,No,9996
+P0334,Library Workshop,6/28/2025,75,Adult,4.1,1845,Elmwood Library,No,2888
+P0913,Youth Activity,6/28/2025,54,Youth,4.1,868,Oakleaf Community Center,No,1909
+P0955,Theatre Event,6/29/2025,168,Adult,3.5,2627,Maplewood Performing Arts Center,No,6752
+P0465,Civic Light Opera,6/29/2025,125,Senior,3.7,3949,Maplewood Performing Arts Center,No,7857
+P0055,Youth Activity,6/29/2025,75,Youth,4.3,510,Oakleaf Community Center,No,1246
+,,,,,,,,,
+Generated 1000 entries and saved to community_programs_cleaned.csv,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+** Process exited - Return Code: 0 **,,,,,,,,,
