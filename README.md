@@ -10,7 +10,7 @@ Using Python for data generation, Excel for data cleaning, Tableau Public (versi
 The analysis demonstrates skills in data management, dashboard creation, and community-focused insights, aligning with the Cultural and Community Services Analyst role.
 
 ## Data Sourcing
-A synthetic dataset of 1,000 program records was generated in Python, simulating 12 months (Fiscal Year July 2024–June 2025) of community programs in Hundred Elms. 
+A synthetic dataset of 1,000 program records was generated in Python, simulating 12 months (July 2024–June 2025) of community programs in Hundred Elms. 
 
 Fields include:
 
@@ -45,14 +45,15 @@ Calculated metrics: average attendance, satisfaction, cost per participant, econ
 
 Exported as community_programs_cleaned.csv.
 
-```excel
 // Example Pivot Table Setup
 
 Rows: Program_Type
+
 Columns: Participant_Age_Group
+
 Values: Average Attendance, Average Satisfaction, Sum Economic_Impact
+
 Filters: Grant_Funded
-```
 
 ## Exploratory Data Analysis
 In Excel, I conducted analysis:
@@ -72,7 +73,7 @@ Conducted t-tests to compare satisfaction and ROI across program types.
 
 Generated visualizations: boxplot of ROI by program type, bar charts of average ROI by program type and grant funding, with all labels fully visible.
 
-### Example: Calculate ROI and plot average ROI by Program_Type
+## Example: Calculate ROI and plot average ROI by Program_Type
 ```R
 data <- read.csv("community_programs_cleaned.csv")
 data <- data %>% mutate(ROI = (Economic_Impact - Program_Cost) / Program_Cost * 100)
@@ -91,20 +92,16 @@ ggplot(roi_by_type, aes(x = Program_Type, y = Avg_ROI, fill = Program_Type)) +
   coord_cartesian(ylim = c(0, max(roi_by_type$Avg_ROI, na.rm = TRUE) * 1.2))
 ```
 
-
-![Insert_Bar_Chart_Avg_Roi](images/avg_roi_by_type_bar.png)
-
-Bar chart showing average ROI for each program type, with Senior Service (128.9%) fully labeled, highlighting high-impact programs like Civic Light Opera.
+<img>width="400"(images/avg_roi_by_type_bar.png)
+*Bar chart showing average ROI for each program type, with Senior Service (128.9%) fully labeled, highlighting high-impact programs like Civic Light Opera.*
 
 
-![Insert_Boxplot](images/roi_by_type_boxplot.png)
+<img>width="400"(images/roi_by_type_boxplot.png)
+*Boxplot showing ROI distribution by program type, identifying variability and outliers.*
 
-Boxplot showing ROI distribution by program type, identifying variability and outliers.
 
-
-![Insert_Roi_by_Grant_Bar](images/roi_by_grant_bar.png)
-
-Bar chart comparing average ROI for grant-funded vs. non-grant-funded programs, with all labels fully visible.
+<img>width="400"(images/roi_by_grant_bar.png)
+*Bar chart comparing average ROI for grant-funded vs. non-grant-funded programs, with all labels fully visible.*
 
 ## Dashboard Development in Tableau Public
 I built a dashboard (1280 x 1024 pixels) in Tableau Public, featuring:
@@ -122,8 +119,6 @@ Bar Chart: Economic impact by program type (400 x 300 pixels).
 Filters: Program type, age group, grant-funded status.
 
 The dashboard is published at Tableau Public Dashboard.
-
-[insert dashboard screenshot here]
 
 Interactive dashboard visualizing participation and economic impact metrics for Hundred Elms community programs, with charts and filters for program type and age group.
 
@@ -146,6 +141,7 @@ Process Improvement: Increase outreach for senior services to boost attendance d
 Grant Proposals: Highlight Civic Light Opera and senior services in grant applications for their economic contributions.
 
 Cross-Division Collaboration: Pair theatre events with Civic Light Opera to enhance participation.
+
 Efficiency: Consolidate low-attendance programs using lean principles.
 
 ## Skills Demonstrated
@@ -161,5 +157,3 @@ Statistical analysis and ROI calculation (R)
 Data-driven storytelling for community and economic impact
 
 Organizational and analytical skills for process improvement
-
-
