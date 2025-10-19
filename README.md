@@ -120,7 +120,7 @@ Bar Chart: Economic impact by program type (400 x 300 pixels).
 
 Filters: Program type, age group, grant-funded status.
 
-The dashboard is published at Tableau Public Dashboard.
+The dashboard is published at Tableau Public (https://tinyurl.com/35jnebte).
 
 
 ![Dashboard](images/dashboard1.png)
