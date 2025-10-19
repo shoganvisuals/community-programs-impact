@@ -1,6 +1,6 @@
 # Hundred Elms Community Services Impact Analysis
 
-Download Executive Summary
+![executive_summary](executive_summary1.pdf)
 
 ## Project Overview
 This project analyzes participation and economic impact metrics for 1,000 hypothetical community programs in Hundred Elms, a fictional California town. Programs include library workshops, theatre events, youth activities, senior services, and Civic Light Opera performances. 
