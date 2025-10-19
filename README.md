@@ -91,13 +91,19 @@ ggplot(roi_by_type, aes(x = Program_Type, y = Avg_ROI, fill = Program_Type)) +
   coord_cartesian(ylim = c(0, max(roi_by_type$Avg_ROI, na.rm = TRUE) * 1.2))
 ```
 
+
 ![Insert_Bar_Chart_Avg_Roi](images/avg_roi_by_type_bar.png)
+
 Bar chart showing average ROI for each program type, with Senior Service (128.9%) fully labeled, highlighting high-impact programs like Civic Light Opera.
 
+
 ![Insert_Boxplot](images/roi_by_type_boxplot.png)
+
 Boxplot showing ROI distribution by program type, identifying variability and outliers.
 
-![Insert_Roi_by_Grant_Bar](roi_by_grant_bar.png)
+
+![Insert_Roi_by_Grant_Bar](images/roi_by_grant_bar.png)
+
 Bar chart comparing average ROI for grant-funded vs. non-grant-funded programs, with all labels fully visible.
 
 ## Dashboard Development in Tableau Public
